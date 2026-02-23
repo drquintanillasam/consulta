@@ -1,5 +1,4 @@
 # Código Cerebro
-test
 ## Protocolo de Atención Integral
 ### Dirección de Prestaciones Médicas
 ### Instituto Mexicano del Seguro Social
