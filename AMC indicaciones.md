@@ -1,4 +1,4 @@
-# indica_AMC
+## Indicaciones en AMC
 
 # ANALGESIA ORAL
 
