@@ -1,552 +1,355 @@
-# Medidas No Farmacológicas e Higiénico-Dietéticas
-## Complementadas con Guías de Práctica Clínica (GPC) Mexicanas del CENETEC
-
----
-
-## Presentación
-
-Este documento integra todas las medidas no farmacológicas identificadas en las notas de consulta del archivo "NOTAS CONSULTA.pdf", complementadas y validadas con las recomendaciones de las Guías de Práctica Clínica (GPC) del Centro Nacional de Excelencia Tecnológica en Salud (CENETEC) y los protocolos del IMSS. Se han agregado indicaciones adicionales basadas en la evidencia para enriquecer el manejo integral de los pacientes en el primer nivel de atención.
-
-Cada medida ha sido contrastada con la evidencia científica y las guías oficiales mexicanas para garantizar su pertinencia, seguridad y efectividad.
-
----
-
-## 1. Medidas Dietéticas
-
-### Para patologías gastrointestinales (colitis, gastritis, dispepsia, reflujo)
-
-**Dieta baja en grasas, condimentos, picantes, harinas y refrescos**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dispepsia Funcional y Enfermedad Ulcerosa Péptica (CENETEC). Las modificaciones dietéticas son la base del manejo inicial.
-
-**Evitar alimentos irritantes (cítricos, café, chocolate, bebidas carbonatadas, alcohol)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico en el Adulto en el Primer Nivel de Atención. Se recomienda evitar alimentos que disminuyan la presión del esfínter esofágico inferior.
-
-**Fraccionar la alimentación en porciones pequeñas y frecuentes (5-6 comidas al día)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico. Comidas pequeñas y frecuentes disminuyen la distensión gástrica.
-
-**No acostarse inmediatamente después de comer (esperar al menos 2-3 horas)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico.
-
-**Elevar cabecera de la cama (15-20 cm) con blocks o almohadas**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico. Reduce el reflujo nocturno.
-
-**Evitar ropa ajustada que comprima el abdomen**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico.
-
-**Masticar lentamente y en un ambiente tranquilo**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dispepsia Funcional. La masticación adecuada favorece la digestión.
-
-### Para gastroenteritis aguda
-
-**Hidratación oral con Suero Vida Oral (frecuente y fraccionado, a libre demanda)**
-- Base GPC: GPC: Manejo de la Diarrea Aguda en el Adulto y GPC: Manejo de la Enfermedad Diarreica Aguda en el Niño (CENETEC). La hidratación oral es el pilar del tratamiento.
-
-**Preparación correcta del Suero Vida Oral (1 sobre para 1 litro de agua hervida o purificada)**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda en el Niño. La dilución incorrecta puede ser inefectiva o peligrosa.
-
-**Suspender temporalmente lácteos y alimentos con fibra insoluble durante la fase aguda**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda en el Niño. Se recomienda dieta astringente y evitar lactosa durante la fase aguda.
-
-**Dieta astringente: plátano, manzana (sin cáscara), arroz, zanahoria cocida, papa, pollo sin piel, pescado blanco**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda. Estos alimentos ayudan a disminuir la frecuencia de las evacuaciones.
-
-**Reintroducir alimentos de forma progresiva, vigilando tolerancia**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda. Una vez que cede la diarrea, se reintegra la alimentación normal gradualmente.
-
-**Evitar jugos industrializados y refrescos (alto contenido de azúcares)**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda. Los azúcares pueden empeorar la diarrea por efecto osmótico.
-
-**Lavado de manos frecuente antes de comer y después de ir al baño**
-- Base GPC: GPC: Manejo de la Enfermedad Diarreica Aguda. Medida fundamental para prevenir la transmisión.
-
-### Para enfermedades crónicas (diabetes, hipertensión, dislipidemia)
-
-**Dieta hiposódica (baja en sal, menos de 5 g de sal al día, equivalente a 1 cucharadita)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial en el Primer Nivel de Atención. La reducción de sodio es una medida efectiva para controlar la presión arterial.
-
-**Evitar alimentos procesados, embutidos, enlatados y comida rápida (alto contenido de sodio)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-**Dieta para diabético: control de carbohidratos, evitar azúcares simples (refrescos, jugos, dulces, postres)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2 en el Primer Nivel de Atención. La educación nutricional es fundamental.
-
-**Método del plato saludable: 1/2 plato de verduras, 1/4 de proteína, 1/4 de carbohidratos complejos**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2. Recomendación de la American Diabetes Association adoptada por el IMSS.
-
-**Aumentar consumo de fibra (verduras, frutas con cáscara, cereales integrales, legumbres)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2 y GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial. La fibra ayuda al control glucémico y lipídico.
-
-**Dieta para nefrópata: restricción de proteínas, fósforo y potasio según indicación y etapa de enfermedad renal**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Enfermedad Renal Crónica Temprana. El manejo dietético es parte integral del tratamiento.
-
-**Dieta para hepatópata: baja en grasas, evitar alcohol, evitar alimentos ultraprocesados**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Enfermedad Hepática Grasa No Alcohólica. La dieta y el estilo de vida son la base del tratamiento.
-
-**Control de porciones y horarios regulares de comida**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2.
-
-**Realizar actividad física aeróbica (caminata, natación, bicicleta) 30-45 minutos al día, al menos 5 días a la semana**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial y GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2.
-
-### Para estreñimiento y hemorroides
-
-**Aumentar ingesta de agua (2-3 litros al día) y fibra (25-30 g al día)**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico en el Adulto en el Primer Nivel de Atención.
-
-**Consumir frutas con cáscara (manzana, pera), ciruela pasa, kiwi, papaya, nopal, avena, salvado de trigo**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico.
-
-**Evitar esfuerzo al evacuar y no posponer la defecación (atender el deseo defecatorio)**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico. Establecer un hábito intestinal regular.
-
-**Establecer horario fijo para evacuar (preferentemente después del desayuno)**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico.
-
-**Realizar ejercicio físico regular para estimular el peristaltismo**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico.
-
-**Evitar consumo excesivo de laxantes sin supervisión médica**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico. Puede causar dependencia.
-
-### Para prevención cardiovascular
-
-**Dieta DASH (Enfoques Dietéticos para Detener la Hipertensión): rica en frutas, verduras, lácteos descremados, granos enteros, pescado, pollo, nueces; baja en carnes rojas, dulces y grasas saturadas**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-**Consumo moderado de alcohol (máximo 1 copa al día en mujeres, 2 en hombres)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-**Mantener peso saludable (IMC < 25) y circunferencia abdominal adecuada (< 80 cm en mujeres, < 90 cm en hombres)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-### Para dislipidemia
-
-**Reducir consumo de grasas saturadas (carnes rojas, piel de pollo, manteca, mantequilla) y grasas trans (productos industrializados)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de las Dislipidemias en el Adulto.
-
-**Aumentar consumo de ácidos grasos omega-3 (pescado azul, atún, sardinas, salmón, linaza, nueces)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de las Dislipidemias.
-
-### Para obesidad
-
-**Reducción gradual de peso (5-10% del peso corporal inicial)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento del Sobrepeso y la Obesidad en el Adulto.
-
-**Asesoría nutricional individualizada y seguimiento periódico**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento del Sobrepeso y la Obesidad.
-
-### Generales
-
-**Aumentar ingesta de agua natural (2-3 litros al día) y electrolitos naturales (evitar bebidas deportivas comerciales por su alto contenido de azúcar)**
-- Base GPC: Guía de hidratación del IMSS.
-
-**Evitar consumo de alcohol y tabaco en todas sus formas**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial y GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2. El alcohol y tabaco son factores de riesgo cardiovascular.
-
----
-
-## 2. Medidas Físicas y de Rehabilitación
-
-### Para traumatismos, contracturas y esguinces
-
-**Aplicación de frío local (hielo envuelto en paño húmedo, compresas frías, gel refrigerante) durante 15-20 minutos cada 4-6 horas en las primeras 48 horas**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Esguince de Tobillo y de Rodilla. El frío disminuye edema, inflamación y dolor agudo.
-
-**Aplicación de calor local (compresas, fomentos, bolsa de agua caliente, baño caliente) cada 8 horas después de 48 horas**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda en el Adulto en el Primer Nivel de Atención. El calor favorece la relajación muscular y la circulación.
-
-**Reposo relativo de la zona afectada, evitando inmovilización prolongada (no más de 24-48 horas)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda. El reposo en cama prolongado retrasa la recuperación.
-
-**Vendaje funcional, inmovilización tipo Velpeau o férula según el caso**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Esguince de Tobillo y de Rodilla. La inmovilización adecuada previene lesiones secundarias.
-
-**Elevación del miembro afectado por encima del nivel del corazón para disminuir edema**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Esguince de Tobillo. Forma parte del método RICE (Reposo, Hielo, Compresión, Elevación).
-
-**Compresión elástica con venda (no muy apretada)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Esguince de Tobillo. Ayuda a controlar el edema.
-
-### Para lumbalgia
-
-**Mantener actividad física en lo posible, evitar reposo absoluto (reanudar actividades cotidianas de forma gradual)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda en el Adulto. El reposo prolongado empeora el pronóstico.
-
-**Ejercicios de estiramiento suave y fortalecimiento de la espalda, abdomen y core**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda. Se recomienda iniciar ejercicios de forma gradual.
-
-**Higiene postural: evitar flexionar la columna al levantar objetos (doblar rodillas), mantener espalda recta al sentarse**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda.
-
-**Evitar giros bruscos y cargar objetos pesados**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda.
-
-**Usar colchón firme y dormir de lado con las piernas flexionadas o boca arriba con una almohada bajo las rodillas**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda.
-
-### Para insuficiencia venosa
-
-**Ejercicios de elevación de piernas (15-20 minutos, varias veces al día) y movilización de tobillos (rotación, flexo-extensión)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica en el Adulto en el Primer Nivel de Atención.
-
-**Uso de medias de compresión graduada si está indicado (prescripción médica con medida adecuada)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica.
-
-**Evitar estar de pie o sentado por periodos prolongados (cambiar de posición cada 30-60 minutos)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica.
-
-**Caminar regularmente para activar la bomba muscular de la pantorrilla**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica.
-
-**Dormir con las piernas ligeramente elevadas**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica.
-
-### Para cólico menstrual
-
-**Aplicación de calor local en abdomen bajo (bolsa de agua caliente, compresa tibia)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de los Trastornos Menstruales en el Primer Nivel de Atención. El calor es efectivo para disminuir el dolor.
-
-**Ejercicio suave (caminata, yoga, estiramientos)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de los Trastornos Menstruales.
-
-**Técnicas de relajación y respiración**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de los Trastornos Menstruales.
-
-### Para artrosis y dolor articular
-
-**Ejercicios de bajo impacto (natación, caminata, bicicleta estática)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Artrosis de Rodilla y Cadera en el Adulto.
-
-**Fortalecimiento muscular del cuádriceps en artrosis de rodilla**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Artrosis de Rodilla.
-
-**Control de peso (cada kg de pérdida disminuye la carga sobre rodillas)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Artrosis de Rodilla.
-
-### Para vértigo y mareo
-
-**Maniobras de reposicionamiento (Epley, Semont) en vértigo posicional paroxístico benigno (solo personal capacitado)**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Vértigo en el Adulto en el Primer Nivel de Atención.
-
-**Evitar movimientos bruscos de cabeza y cambios posturales repentinos**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Vértigo.
-
-**Deambulación asistida (con apoyo) en caso de inestabilidad**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Vértigo.
-
----
-
-## 3. Medidas de Higiene y Cuidados Locales
-
-### Para heridas y abrasiones
-
-**Lavado con agua y jabón neutro (evitar jabón de pasta como Zote o detergentes)**
-- Base GPC: GPC: Prevención de Infección de Heridas Quirúrgicas y Traumáticas. La limpieza adecuada es la principal medida para prevenir infección.
-
-**Uso de soluciones antisépticas como Microdacyn, clorhexidina o agua oxigenada diluida (solo en heridas contaminadas)**
-- Base GPC: Guía institucional IMSS para manejo de heridas.
-
-**Curación con gasa estéril y vendaje si es necesario, manteniendo la herida limpia y seca**
-- Base GPC: GPC: Prevención de Infección de Heridas. El vendaje protege la herida de contaminación externa.
-
-**No aplicar antibióticos tópicos de forma rutinaria en heridas limpias (no está indicada la profilaxis antibiótica)**
-- Base GPC: GPC: Prevención de Infección de Heridas.
-
-**Observar signos de infección: enrojecimiento, calor local, aumento del dolor, secreción purulenta**
-- Base GPC: GPC: Prevención de Infección de Heridas.
-
-### Para quemaduras
-
-**Aplicación de sulfadiazina de plata tópica con gasa estéril (en quemaduras de segundo grado)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Quemaduras en el Primer Nivel de Atención.
-
-**Enfriar la zona con agua corriente (no helada) durante 10-15 minutos inmediatamente después de la quemadura**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Quemaduras. Reduce la progresión de la lesión.
-
-**Evitar reventar ampollas (las ampollas intactas protegen contra infección)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Quemaduras.
-
-**Evitar aplicar remedios caseros (pasta dental, clara de huevo, mantequilla, etc.)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de Quemaduras.
-
-### Para infecciones de piel (abscesos, paroniquia, foliculitis)
-
-**Curaciones con solución antiséptica cada 12 horas**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Celulitis y Erisipela. El cuidado local es fundamental.
-
-**Evitar automedicación, manipulación de la lesión y exprimir (puede diseminar la infección)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Celulitis y Erisipela.
-
-**Mantener la zona limpia y seca**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Celulitis y Erisipela.
-
-**En abscesos, aplicar compresas tibias para favorecer drenaje espontáneo (previa evaluación médica)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Celulitis y Erisipela.
-
-### Para otitis externa
-
-**Limpieza del conducto auditivo externo con solución salina o agua oxigenada diluida (solo si está indicado)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Otitis Externa Aguda. La limpieza facilita la acción de los medicamentos tópicos.
-
-**Evitar introducir objetos (hisopos, uñas, ganchos) en el oído**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Otitis Externa Aguda.
-
-**Mantener el oído seco durante el baño (usar tapones de silicona o algodón con vaselina)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Otitis Externa Aguda.
-
-### Para hemorroides y fisura anal
-
-**Baños de asiento con agua tibia (sentarse en una tina con agua tibia que cubra caderas y glúteos) durante 10-15 minutos, 2-3 veces al día**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Enfermedad Hemorroidal en el Primer Nivel de Atención. El agua tibia alivia el dolor y la inflamación.
-
-**Evitar esfuerzo al evacuar y uso de papel higiénico áspero o perfumado (preferir toallitas húmedas sin alcohol o lavado con agua)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Enfermedad Hemorroidal.
-
-**Secar la zona con toalla suave (sin frotar) después de cada lavado**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Enfermedad Hemorroidal.
-
-### Para rinitis y resfriado común
-
-**Lavados nasales con solución salina (2-3 veces al día, especialmente antes de dormir)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Rinitis Alérgica. Los lavados nasales remueven moco y alérgenos.
-
-**Uso de humidificador ambiental o vaporizador (especialmente en habitaciones con aire acondicionado o calefacción)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Rinitis Alérgica. Ayuda a mantener hidratada la mucosa nasal.
-
-**Inhalación de vapores (con precaución, no en niños pequeños)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Rinitis Alérgica.
-
-**Evitar exposición a alérgenos (polvo, ácaros, polen, humo de tabaco)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Rinitis Alérgica.
-
-### Para candidiasis del pañal
-
-**Cambio frecuente de pañal (cada 3-4 horas o inmediatamente después de cada evacuación)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de las Dermatitis del Pañal en el Niño. La higiene es la base del tratamiento.
-
-**Aplicación de talco o crema barrera (Bepanthen, óxido de zinc) en cada cambio**
-- Base GPC: GPC: Diagnóstico y Tratamiento de las Dermatitis del Pañal. Las cremas barrera protegen la piel.
-
-**Mantener la zona limpia y seca, dejar sin pañal periodos cortos al día (baños de aire)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de las Dermatitis del Pañal.
-
-**Evitar toallitas húmedas con alcohol o perfume (preferir lavado con agua tibia)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de las Dermatitis del Pañal.
-
-### Para dermatitis atópica o por contacto
-
-**Uso de jabones neutros, syndet (sin detergente) y agua tibia**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dermatitis Atópica en el Niño y el Adulto.
-
-**Hidratación intensa con cremas emolientes (sin perfume, varias veces al día)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dermatitis Atópica.
-
-**Evitar rascado (mantener uñas cortas, usar ropa de algodón)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dermatitis Atópica.
-
-**Identificar y evitar alérgenos o irritantes específicos**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Dermatitis por Contacto.
-
----
-
-## 4. Medidas de Seguimiento y Autocuidado
-
-### Para enfermedades crónicas
-
-**Llevar bitácora de presión arterial (tres tomas al día: mañana, tarde y noche, durante varios días, registrando fecha y hora)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial. El automonitoreo mejora el control.
-
-**Llevar bitácora de glucosas capilares (registrar valores en ayuno, pre y postprandiales según indicación)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2. El automonitoreo es esencial para ajustar tratamiento.
-
-**Registrar peso semanalmente (mismo día, misma hora, misma báscula, con ropa ligera)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento del Sobrepeso y la Obesidad.
-
-**Acudir a consulta externa de Medicina Familiar para ajuste de tratamiento, evaluación de metas y detección oportuna de complicaciones**
-- Base GPC: Todas las GPC de enfermedades crónicas enfatizan el seguimiento periódico.
-
-**Mantener esquema de vacunación completo (influenza, neumococo, COVID-19, tétanos)**
-- Base GPC: Programa de Vacunación Universal.
-
-**Realizarse estudios de laboratorio (perfil de lípidos, HbA1c, creatinina, EGO) según indicación médica**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2.
-
-### Para crisis hipertensiva
-
-**Monitoreo de presión arterial en casa en diferentes momentos del día**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-**Identificar y evitar factores desencadenantes (estrés, alcohol, tabaco, sal, alimentos procesados)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertension Arterial.
-
-**Reconocer síntomas de alarma (cefalea intensa, mareo, visión borrosa, dolor torácico, disnea)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial.
-
-### Para diabetes
-
-**Control de glucemia capilar con frecuencia indicada por el médico**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2.
-
-**Revisión diaria de pies (inspeccionar presencia de heridas, ampollas, cambios de coloración o temperatura)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2. Prevención de pie diabético.
-
-**Cuidado de pies: lavado con agua tibia, secado cuidadoso (especialmente entre los dedos), uñas cortadas rectas, uso de calzado adecuado**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2.
-
-**Reconocer síntomas de hipoglucemia (sudoración, temblor, palpitaciones, hambre, confusión) e hiperglucemia (polidipsia, poliuria, visión borrosa)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2. La educación al paciente es fundamental.
-
-### Para ansiedad y estrés
-
-**Técnicas de relajación, respiración profunda (respiración diafragmática, técnica 4-7-8)**
-- Base GPC: GPC: Manejo de la Ansiedad en el Primer Nivel de Atención.
-
-**Evitar situaciones estresantes en la medida de lo posible, establecer límites**
-- Base GPC: GPC: Manejo de la Ansiedad.
-
-**Contención verbal y apoyo psicológico (escucha activa, empatía, validación de emociones)**
-- Base GPC: GPC: Manejo de la Ansiedad. La escucha activa es la primera intervención.
-
-**Ejercicio físico regular para liberar endorfinas (caminata, yoga, tai chi)**
-- Base GPC: GPC: Manejo de la Ansiedad.
-
-**Mantener una red de apoyo social (familia, amigos, grupos de ayuda)**
-- Base GPC: GPC: Manejo de la Ansiedad.
-
-**Evitar consumo de alcohol, cafeína y otras sustancias que puedan exacerbar la ansiedad**
-- Base GPC: GPC: Manejo de la Ansiedad.
-
-### Para migraña y cefalea tensional
-
-**Identificar y evitar desencadenantes específicos de cada paciente (estrés, falta de sueño, alimentos: chocolate, queso añejo, vino tinto, cafeína, ayuno prolongado, luces brillantes, ruido)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Migraña y Cefalea Tensional en el Adulto.
-
-**Mantener horarios regulares de sueño (7-9 horas), comidas y actividad física**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Migraña.
-
-**Llevar un diario de cefaleas (frecuencia, intensidad, duración, desencadenantes, medicamentos utilizados)**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Migraña.
-
-**Descansar en un ambiente oscuro, tranquilo y fresco durante el ataque agudo**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Migraña.
-
-### Generales
-
-**Conocer y vigilar datos de alarma para cada padecimiento (fiebre persistente, sangrado anormal, dolor intenso que no cede, somnolencia, confusión, dificultad respiratoria, datos de alarma neurológicos)**
-- Base GPC: Todas las GPC incluyen un apartado de datos de alarma que el paciente debe conocer.
-
-**Acudir a urgencias si se presentan datos de alarma (cita abierta)**
-- Base GPC: Estándar de seguridad en el primer nivel de atención.
-
-**Seguimiento con médico familiar para evaluación integral, ajuste de tratamiento y prevención de complicaciones**
-- Base GPC: Todas las GPC de padecimientos crónicos y recurrentes.
-
-**No automedicarse ni suspender tratamientos indicados sin supervisión médica**
-- Base GPC: Todas las GPC.
-
-**Conservar y llevar a consulta los resultados de estudios y resúmenes médicos**
-- Base GPC: Estándar de continuidad de la atención.
-
----
-
-## 5. Medidas de Observación y Vigilancia Hospitalaria
-
-**Vigilancia neurológica: escala de Glasgow, tamaño y reactividad pupilar, fuerza y sensibilidad en extremidades, en traumatismo craneoencefálico o evento vascular cerebral**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Trauma Craneoencefálico en el Adulto en el Primer Nivel de Atención y GPC: Abordaje Diagnóstico y Tratamiento de la Enfermedad Vascular Cerebral Isquémica.
-
-**Vigilancia respiratoria: frecuencia respiratoria, saturación de oxígeno por pulsioximetría, patrón respiratorio, presencia de tiraje o aleteo nasal**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Neumonía Adquirida en la Comunidad y GPC: Crisis Asmática en el Adulto y el Niño.
-
-**Vigilancia de signos vitales (presión arterial, frecuencia cardíaca, temperatura) cada 4-6 horas según estabilidad del paciente**
-- Base GPC: Estándar de atención hospitalaria.
-
-**Control estricto de ingresos y egresos (balance hídrico) en pacientes con insuficiencia cardíaca, renal o deshidratación severa**
-- Base GPC: GPC: Diagnóstico y Tratamiento de la Insuficiencia Cardíaca Crónica.
-
-**Código de evacuaciones (en caso de desastres, siniestros o contingencias hospitalarias)**
-- Base GPC: Protocolos institucionales de protección civil IMSS.
-
-**Reportar eventualidades al médico tratante (cambios en el estado clínico, reacciones adversas a medicamentos)**
-- Base GPC: Estándar de seguridad del paciente.
-
-**Monitoreo fetal en embarazadas con sangrado, dolor o hipertensión (frecuencia cardíaca fetal, dinámica uterina)**
-- Base GPC: GPC: Control Prenatal y Atención Obstétrica.
-
----
-
-## 6. Otras Medidas Específicas
-
-**Ayuno hasta nueva orden (preoperatorio, para estudios de laboratorio o gabinete, o en patologías abdominales agudas)**
-- Base GPC: Protocolos preoperatorios institucionales y GPC: Abordaje Diagnóstico del Dolor Abdominal en el Adulto.
-
-**Dieta blanda asistida por familiar (en pacientes con dificultad para deglutir, postoperatorios o con trastornos neurológicos)**
-- Base GPC: GPC: Abordaje Diagnóstico y Terapéutico de la Disfagia en el Adulto Mayor.
-
-**Dieta en papilla (para niños pequeños en etapa de ablactación o adultos con problemas de masticación)**
-- Base GPC: GPC de alimentación infantil y adulto mayor.
-
-**Reposo absoluto en cama en fase aguda de ciertas patologías (IAM, pancreatitis, trauma mayor)**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Infarto Agudo al Miocardio.
-
-**Uso de férulas o collarín cervical según indicación**
-- Base GPC: GPC: Diagnóstico y Tratamiento del Trauma Raquimedular en el Adulto.
-
-**Terapia de lenguaje y rehabilitación en secuelas de EVC o traumatismo**
-- Base GPC: GPC: Abordaje Diagnóstico y Tratamiento de la Enfermedad Vascular Cerebral Isquémica.
-
-**Estimulación temprana en niños con retraso en el desarrollo**
-- Base GPC: GPC: Detección y Manejo de los Trastornos del Desarrollo en el Niño.
-
-**Aislamiento domiciliario en enfermedades infectocontagiosas (influenza, COVID-19, varicela)**
-- Base GPC: Lineamientos de salud pública.
-
-**Educación en salud sexual y reproductiva (uso de preservativos, métodos anticonceptivos, prevención de ITS)**
-- Base GPC: GPC: Prevención, Diagnóstico y Tratamiento de las Infecciones de Transmisión Sexual.
-
----
-
-## Resumen de Guías de Práctica Clínica Mexicanas Consultadas
-
-- GPC: Diagnóstico y Tratamiento de la Dispepsia Funcional y Enfermedad Ulcerosa Péptica
-- GPC: Abordaje Diagnóstico y Terapéutico de la Enfermedad por Reflujo Gastroesofágico en el Adulto en el Primer Nivel de Atención
-- GPC: Manejo de la Diarrea Aguda en el Adulto
-- GPC: Manejo de la Enfermedad Diarreica Aguda en el Niño
-- GPC: Prevención, Diagnóstico y Tratamiento de la Hipertensión Arterial en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de la Diabetes Mellitus Tipo 2 en el Primer Nivel de Atención
-- GPC: Prevención, Diagnóstico y Tratamiento de las Dislipidemias en el Adulto
-- GPC: Prevención, Diagnóstico y Tratamiento del Sobrepeso y la Obesidad en el Adulto
-- GPC: Prevención, Diagnóstico y Tratamiento de la Enfermedad Renal Crónica Temprana
-- GPC: Diagnóstico y Tratamiento de la Enfermedad Hepática Grasa No Alcohólica
-- GPC: Diagnóstico y Tratamiento del Estreñimiento Crónico en el Adulto en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de Esguince de Tobillo y de Rodilla
-- GPC: Diagnóstico y Tratamiento de la Lumbalgia Aguda en el Adulto en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de la Insuficiencia Venosa Crónica en el Adulto
-- GPC: Diagnóstico y Tratamiento de la Artrosis de Rodilla y Cadera en el Adulto
-- GPC: Diagnóstico y Tratamiento del Vértigo en el Adulto en el Primer Nivel de Atención
-- GPC: Abordaje Diagnóstico y Terapéutico de los Trastornos Menstruales en el Primer Nivel de Atención
-- GPC: Prevención de Infección de Heridas Quirúrgicas y Traumáticas
-- GPC: Diagnóstico y Tratamiento de Quemaduras en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de la Celulitis y Erisipela
-- GPC: Diagnóstico y Tratamiento de la Otitis Externa Aguda
-- GPC: Diagnóstico y Tratamiento de la Enfermedad Hemorroidal en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de la Rinitis Alérgica
-- GPC: Diagnóstico y Tratamiento de las Dermatitis del Pañal en el Niño
-- GPC: Diagnóstico y Tratamiento de la Dermatitis Atópica en el Niño y el Adulto
-- GPC: Diagnóstico y Tratamiento de la Dermatitis por Contacto
-- GPC: Manejo de la Ansiedad en el Primer Nivel de Atención
-- GPC: Diagnóstico y Tratamiento de la Migraña y Cefalea Tensional en el Adulto
-- GPC: Diagnóstico y Tratamiento del Trauma Craneoencefálico en el Adulto
-- GPC: Abordaje Diagnóstico y Tratamiento de la Enfermedad Vascular Cerebral Isquémica
-- GPC: Diagnóstico y Tratamiento de la Neumonía Adquirida en la Comunidad
-- GPC: Crisis Asmática en el Adulto y el Niño
-- GPC: Diagnóstico y Tratamiento de la Insuficiencia Cardíaca Crónica
-- GPC: Abordaje Diagnóstico y Terapéutico de la Disfagia en el Adulto Mayor
-- GPC: Diagnóstico y Tratamiento del Infarto Agudo al Miocardio
-- GPC: Diagnóstico y Tratamiento del Trauma Raquimedular en el Adulto
-- GPC: Detección y Manejo de los Trastornos del Desarrollo en el Niño
-- GPC: Control Prenatal y Atención Obstétrica
-- GPC: Prevención, Diagnóstico y Tratamiento de las Infecciones de Transmisión Sexual
-
----
-
-Este documento constituye una guía práctica completa de medidas no farmacológicas basadas en la evidencia y alineadas con las recomendaciones oficiales mexicanas, para ser utilizadas en el primer nivel de atención, con el objetivo de promover un manejo integral, seguro y efectivo de los pacientes.
+# MEDIDAS NO FARMACOLÓGICAS E HIGIÉNICO-DIETÉTICAS
+## COMPLEMENTADAS CON GUÍAS DE PRÁCTICA CLÍNICA (GPC) MEXICANAS DEL CENETEC
+## PRESENTACIÓN
+ESTE DOCUMENTO INTEGRA TODAS LAS MEDIDAS NO FARMACOLÓGICAS IDENTIFICADAS EN LAS NOTAS DE CONSULTA DEL ARCHIVO "NOTAS CONSULTA.PDF", COMPLEMENTADAS Y VALIDADAS CON LAS RECOMENDACIONES DE LAS GUÍAS DE PRÁCTICA CLÍNICA (GPC) DEL CENTRO NACIONAL DE EXCELENCIA TECNOLÓGICA EN SALUD (CENETEC) Y LOS PROTOCOLOS DEL IMSS. SE HAN AGREGADO INDICACIONES ADICIONALES BASADAS EN LA EVIDENCIA PARA ENRIQUECER EL MANEJO INTEGRAL DE LOS PACIENTES EN EL PRIMER NIVEL DE ATENCIÓN. CADA MEDIDA HA SIDO CONTRASTADA CON LA EVIDENCIA CIENTÍFICA Y LAS GUÍAS OFICIALES MEXICANAS PARA GARANTIZAR SU PERTINENCIA, SEGURIDAD Y EFECTIVIDAD.
+## MEDIDAS DIETÉTICAS
+### PARA PATOLOGÍAS GASTROINTESTINALES (COLITIS, GASTRITIS, DISPEPSIA, REFLUJO)
+**DIETA BAJA EN GRASAS, CONDIMENTOS, PICANTES, HARINAS Y REFRESCOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DISPEPSIA FUNCIONAL Y ENFERMEDAD ULCEROSA PÉPTICA (CENETEC). LAS MODIFICACIONES DIETÉTICAS SON LA BASE DEL MANEJO INICIAL.
+**EVITAR ALIMENTOS IRRITANTES (CÍTRICOS, CAFÉ, CHOCOLATE, BEBIDAS CARBONATADAS, ALCOHOL)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN. SE RECOMIENDA EVITAR ALIMENTOS QUE DISMINUYAN LA PRESIÓN DEL ESFÍNTER ESOFÁGICO INFERIOR.
+**FRACCIONAR LA ALIMENTACIÓN EN PORCIONES PEQUEÑAS Y FRECUENTES (5-6 COMIDAS AL DÍA)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO. COMIDAS PEQUEÑAS Y FRECUENTES DISMINUYEN LA DISTENSIÓN GÁSTRICA.
+**NO ACOSTARSE INMEDIATAMENTE DESPUÉS DE COMER (ESPERAR AL MENOS 2-3 HORAS)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO.
+**ELEVAR CABECERA DE LA CAMA (15-20 CM) CON BLOCKS O ALMOHADAS**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO. REDUCE EL REFLUJO NOCTURNO.
+**EVITAR ROPA AJUSTADA QUE COMPRIMA EL ABDOMEN**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO.
+**MASTICAR LENTAMENTE Y EN UN AMBIENTE TRANQUILO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DISPEPSIA FUNCIONAL. LA MASTICACIÓN ADECUADA FAVORECE LA DIGESTIÓN.
+### PARA GASTROENTERITIS AGUDA
+**HIDRATACIÓN ORAL CON SUERO VIDA ORAL (FRECUENTE Y FRACCIONADO, A LIBRE DEMANDA)**
+- BASE GPC: GPC: MANEJO DE LA DIARREA AGUDA EN EL ADULTO Y GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA EN EL NIÑO (CENETEC). LA HIDRATACIÓN ORAL ES EL PILAR DEL TRATAMIENTO.
+**PREPARACIÓN CORRECTA DEL SUERO VIDA ORAL (1 SOBRE PARA 1 LITRO DE AGUA HERVIDA O PURIFICADA)**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA EN EL NIÑO. LA DILUCIÓN INCORRECTA PUEDE SER INEFECTIVA O PELIGROSA.
+**SUSPENDER TEMPORALMENTE LÁCTEOS Y ALIMENTOS CON FIBRA INSOLUBLE DURANTE LA FASE AGUDA**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA EN EL NIÑO. SE RECOMIENDA DIETA ASTRINGENTE Y EVITAR LACTOSA DURANTE LA FASE AGUDA.
+**DIETA ASTRINGENTE: PLÁTANO, MANZANA (SIN CÁSCARA), ARROZ, ZANAHORIA COCIDA, PAPA, POLLO SIN PIEL, PESCADO BLANCO**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA. ESTOS ALIMENTOS AYUDAN A DISMINUIR LA FRECUENCIA DE LAS EVACUACIONES.
+**REINTRODUCIR ALIMENTOS DE FORMA PROGRESIVA, VIGILANDO TOLERANCIA**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA. UNA VEZ QUE CEDE LA DIARREA, SE REINTEGRA LA ALIMENTACIÓN NORMAL GRADUALMENTE.
+**EVITAR JUGOS INDUSTRIALIZADOS Y REFRESCOS (ALTO CONTENIDO DE AZÚCARES)**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA. LOS AZÚCARES PUEDEN EMPEORAR LA DIARREA POR EFECTO OSMÓTICO.
+**LAVADO DE MANOS FRECUENTE ANTES DE COMER Y DESPUÉS DE IR AL BAÑO**
+- BASE GPC: GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA. MEDIDA FUNDAMENTAL PARA PREVENIR LA TRANSMISIÓN.
+### PARA ENFERMEDADES CRÓNICAS (DIABETES, HIPERTENSIÓN, DISLIPIDEMIA)
+**DIETA HIPOSÓDICA (BAJA EN SAL, MENOS DE 5 G DE SAL AL DÍA, EQUIVALENTE A 1 CUCHARADITA)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL EN EL PRIMER NIVEL DE ATENCIÓN. LA REDUCCIÓN DE SODIO ES UNA MEDIDA EFECTIVA PARA CONTROLAR LA PRESIÓN ARTERIAL.
+**EVITAR ALIMENTOS PROCESADOS, EMBUTIDOS, ENLATADOS Y COMIDA RÁPIDA (ALTO CONTENIDO DE SODIO)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+**DIETA PARA DIABÉTICO: CONTROL DE CARBOHIDRATOS, EVITAR AZÚCARES SIMPLES (REFRESCOS, JUGOS, DULCES, POSTRES)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2 EN EL PRIMER NIVEL DE ATENCIÓN. LA EDUCACIÓN NUTRICIONAL ES FUNDAMENTAL.
+**MÉTODO DEL PLATO SALUDABLE: 1/2 PLATO DE VERDURAS, 1/4 DE PROTEÍNA, 1/4 DE CARBOHIDRATOS COMPLEJOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2. RECOMENDACIÓN DE LA AMERICAN DIABETES ASSOCIATION ADOPTADA POR EL IMSS.
+**AUMENTAR CONSUMO DE FIBRA (VERDURAS, FRUTAS CON CÁSCARA, CEREALES INTEGRALES, LEGUMBRES)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2 Y GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL. LA FIBRA AYUDA AL CONTROL GLUCÉMICO Y LIPÍDICO.
+**DIETA PARA NEFRÓPATA: RESTRICCIÓN DE PROTEÍNAS, FÓSFORO Y POTASIO SEGÚN INDICACIÓN Y ETAPA DE ENFERMEDAD RENAL**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD RENAL CRÓNICA TEMPRANA. EL MANEJO DIETÉTICO ES PARTE INTEGRAL DEL TRATAMIENTO.
+**DIETA PARA HEPATÓPATA: BAJA EN GRASAS, EVITAR ALCOHOL, EVITAR ALIMENTOS ULTRAPROCESADOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEPÁTICA GRASA NO ALCOHÓLICA. LA DIETA Y EL ESTILO DE VIDA SON LA BASE DEL TRATAMIENTO.
+**CONTROL DE PORCIONES Y HORARIOS REGULARES DE COMIDA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2.
+**REALIZAR ACTIVIDAD FÍSICA AERÓBICA (CAMINATA, NATACIÓN, BICICLETA) 30-45 MINUTOS AL DÍA, AL MENOS 5 DÍAS A LA SEMANA**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL Y GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2.
+### PARA ESTREÑIMIENTO Y HEMORROIDES
+**AUMENTAR INGESTA DE AGUA (2-3 LITROS AL DÍA) Y FIBRA (25-30 G AL DÍA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN.
+**CONSUMIR FRUTAS CON CÁSCARA (MANZANA, PERA), CIRUELA PASA, KIWI, PAPAYA, NOPAL, AVENA, SALVADO DE TRIGO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO.
+**EVITAR ESFUERZO AL EVACUAR Y NO POSPONER LA DEFECACIÓN (ATENDER EL DESEO DEFECATORIO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO. ESTABLECER UN HÁBITO INTESTINAL REGULAR.
+**ESTABLECER HORARIO FIJO PARA EVACUAR (PREFERENTEMENTE DESPUÉS DEL DESAYUNO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO.
+**REALIZAR EJERCICIO FÍSICO REGULAR PARA ESTIMULAR EL PERISTALTISMO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO.
+**EVITAR CONSUMO EXCESIVO DE LAXANTES SIN SUPERVISIÓN MÉDICA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO. PUEDE CAUSAR DEPENDENCIA.
+### PARA PREVENCIÓN CARDIOVASCULAR
+**DIETA DASH (ENFOQUES DIETÉTICOS PARA DETENER LA HIPERTENSIÓN): RICA EN FRUTAS, VERDURAS, LÁCTEOS DESCREMADOS, GRANOS ENTEROS, PESCADO, POLLO, NUECES; BAJA EN CARNES ROJAS, DULCES Y GRASAS SATURADAS**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+**CONSUMO MODERADO DE ALCOHOL (MÁXIMO 1 COPA AL DÍA EN MUJERES, 2 EN HOMBRES)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+**MANTENER PESO SALUDABLE (IMC < 25) Y CIRCUNFERENCIA ABDOMINAL ADECUADA (< 80 CM EN MUJERES, < 90 CM EN HOMBRES)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+### PARA DISLIPIDEMIA
+**REDUCIR CONSUMO DE GRASAS SATURADAS (CARNES ROJAS, PIEL DE POLLO, MANTECA, MANTEQUILLA) Y GRASAS TRANS (PRODUCTOS INDUSTRIALIZADOS)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS DISLIPIDEMIAS EN EL ADULTO.
+**AUMENTAR CONSUMO DE ÁCIDOS GRASOS OMEGA-3 (PESCADO AZUL, ATÚN, SARDINAS, SALMÓN, LINAZA, NUECES)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS DISLIPIDEMIAS.
+### PARA OBESIDAD
+**REDUCCIÓN GRADUAL DE PESO (5-10% DEL PESO CORPORAL INICIAL)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DEL SOBREPESO Y LA OBESIDAD EN EL ADULTO.
+**ASESORÍA NUTRICIONAL INDIVIDUALIZADA Y SEGUIMIENTO PERIÓDICO**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DEL SOBREPESO Y LA OBESIDAD.
+### GENERALES
+**AUMENTAR INGESTA DE AGUA NATURAL (2-3 LITROS AL DÍA) Y ELECTROLITOS NATURALES (EVITAR BEBIDAS DEPORTIVAS COMERCIALES POR SU ALTO CONTENIDO DE AZÚCAR)**
+- BASE GPC: GUÍA DE HIDRATACIÓN DEL IMSS.
+**EVITAR CONSUMO DE ALCOHOL Y TABACO EN TODAS SUS FORMAS**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL Y GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2. EL ALCOHOL Y TABACO SON FACTORES DE RIESGO CARDIOVASCULAR.
+## MEDIDAS FÍSICAS Y DE REHABILITACIÓN
+### PARA TRAUMATISMOS, CONTRACTURAS Y ESGUINCES
+**APLICACIÓN DE FRÍO LOCAL (HIELO ENVUELTO EN PAÑO HÚMEDO, COMPRESAS FRÍAS, GEL REFRIGERANTE) DURANTE 15-20 MINUTOS CADA 4-6 HORAS EN LAS PRIMERAS 48 HORAS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE ESGUINCE DE TOBILLO Y DE RODILLA. EL FRÍO DISMINUYE EDEMA, INFLAMACIÓN Y DOLOR AGUDO.
+**APLICACIÓN DE CALOR LOCAL (COMPRESAS, FOMENTOS, BOLSA DE AGUA CALIENTE, BAÑO CALIENTE) CADA 8 HORAS DESPUÉS DE 48 HORAS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN. EL CALOR FAVORECE LA RELAJACIÓN MUSCULAR Y LA CIRCULACIÓN.
+**REPOSO RELATIVO DE LA ZONA AFECTADA, EVITANDO INMOVILIZACIÓN PROLONGADA (NO MÁS DE 24-48 HORAS)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA. EL REPOSO EN CAMA PROLONGADO RETRASA LA RECUPERACIÓN.
+**VENDAJE FUNCIONAL, INMOVILIZACIÓN TIPO VELPEAU O FÉRULA SEGÚN EL CASO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE ESGUINCE DE TOBILLO Y DE RODILLA. LA INMOVILIZACIÓN ADECUADA PREVIENE LESIONES SECUNDARIAS.
+**ELEVACIÓN DEL MIEMBRO AFECTADO POR ENCIMA DEL NIVEL DEL CORAZÓN PARA DISMINUIR EDEMA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE ESGUINCE DE TOBILLO. FORMA PARTE DEL MÉTODO RICE (REPOSO, HIELO, COMPRESIÓN, ELEVACIÓN).
+**COMPRESIÓN ELÁSTICA CON VENDA (NO MUY APRETADA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE ESGUINCE DE TOBILLO. AYUDA A CONTROLAR EL EDEMA.
+### PARA LUMBALGIA
+**MANTENER ACTIVIDAD FÍSICA EN LO POSIBLE, EVITAR REPOSO ABSOLUTO (REANUDAR ACTIVIDADES COTIDIANAS DE FORMA GRADUAL)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA EN EL ADULTO. EL REPOSO PROLONGADO EMPEORA EL PRONÓSTICO.
+**EJERCICIOS DE ESTIRAMIENTO SUAVE Y FORTALECIMIENTO DE LA ESPALDA, ABDOMEN Y CORE**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA. SE RECOMIENDA INICIAR EJERCICIOS DE FORMA GRADUAL.
+**HIGIENE POSTURAL: EVITAR FLEXIONAR LA COLUMNA AL LEVANTAR OBJETOS (DOBLAR RODILLAS), MANTENER ESPALDA RECTA AL SENTARSE**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA.
+**EVITAR GIROS BRUSCOS Y CARGAR OBJETOS PESADOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA.
+**USAR COLCHÓN FIRME Y DORMIR DE LADO CON LAS PIERNAS FLEXIONADAS O BOCA ARRIBA CON UNA ALMOHADA BAJO LAS RODILLAS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA.
+### PARA INSUFICIENCIA VENOSA
+**EJERCICIOS DE ELEVACIÓN DE PIERNAS (15-20 MINUTOS, VARIAS VECES AL DÍA) Y MOVILIZACIÓN DE TOBILLOS (ROTACIÓN, FLEXO-EXTENSIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN.
+**USO DE MEDIAS DE COMPRESIÓN GRADUADA SI ESTÁ INDICADO (PRESCRIPCIÓN MÉDICA CON MEDIDA ADECUADA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA.
+**EVITAR ESTAR DE PIE O SENTADO POR PERIODOS PROLONGADOS (CAMBIAR DE POSICIÓN CADA 30-60 MINUTOS)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA.
+**CAMINAR REGULARMENTE PARA ACTIVAR LA BOMBA MUSCULAR DE LA PANTORRILLA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA.
+**DORMIR CON LAS PIERNAS LIGERAMENTE ELEVADAS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA.
+### PARA CÓLICO MENSTRUAL
+**APLICACIÓN DE CALOR LOCAL EN ABDOMEN BAJO (BOLSA DE AGUA CALIENTE, COMPRESA TIBIA)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LOS TRASTORNOS MENSTRUALES EN EL PRIMER NIVEL DE ATENCIÓN. EL CALOR ES EFECTIVO PARA DISMINUIR EL DOLOR.
+**EJERCICIO SUAVE (CAMINATA, YOGA, ESTIRAMIENTOS)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LOS TRASTORNOS MENSTRUALES.
+**TÉCNICAS DE RELAJACIÓN Y RESPIRACIÓN**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LOS TRASTORNOS MENSTRUALES.
+### PARA ARTROSIS Y DOLOR ARTICULAR
+**EJERCICIOS DE BAJO IMPACTO (NATACIÓN, CAMINATA, BICICLETA ESTÁTICA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ARTROSIS DE RODILLA Y CADERA EN EL ADULTO.
+**FORTALECIMIENTO MUSCULAR DEL CUÁDRICEPS EN ARTROSIS DE RODILLA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ARTROSIS DE RODILLA.
+**CONTROL DE PESO (CADA KG DE PÉRDIDA DISMINUYE LA CARGA SOBRE RODILLAS)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ARTROSIS DE RODILLA.
+### PARA VÉRTIGO Y MAREO
+**MANIOBRAS DE REPOSICIONAMIENTO (EPLEY, SEMONT) EN VÉRTIGO POSICIONAL PAROXÍSTICO BENIGNO (SOLO PERSONAL CAPACITADO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL VÉRTIGO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN.
+**EVITAR MOVIMIENTOS BRUSCOS DE CABEZA Y CAMBIOS POSTURALES REPENTINOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL VÉRTIGO.
+**DEAMBULACIÓN ASISTIDA (CON APOYO) EN CASO DE INESTABILIDAD**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL VÉRTIGO.
+## MEDIDAS DE HIGIENE Y CUIDADOS LOCALES
+### PARA HERIDAS Y ABRASIONES
+**LAVADO CON AGUA Y JABÓN NEUTRO (EVITAR JABÓN DE PASTA COMO ZOTE O DETERGENTES)**
+- BASE GPC: GPC: PREVENCIÓN DE INFECCIÓN DE HERIDAS QUIRÚRGICAS Y TRAUMÁTICAS. LA LIMPIEZA ADECUADA ES LA PRINCIPAL MEDIDA PARA PREVENIR INFECCIÓN.
+**USO DE SOLUCIONES ANTISÉPTICAS COMO MICRODACYN, CLORHEXIDINA O AGUA OXIGENADA DILUIDA (SOLO EN HERIDAS CONTAMINADAS)**
+- BASE GPC: GUÍA INSTITUCIONAL IMSS PARA MANEJO DE HERIDAS.
+**CURACIÓN CON GASA ESTÉRIL Y VENDAJE SI ES NECESARIO, MANTENIENDO LA HERIDA LIMPIA Y SECA**
+- BASE GPC: GPC: PREVENCIÓN DE INFECCIÓN DE HERIDAS. EL VENDAJE PROTEGE LA HERIDA DE CONTAMINACIÓN EXTERNA.
+**NO APLICAR ANTIBIÓTICOS TÓPICOS DE FORMA RUTINARIA EN HERIDAS LIMPIAS (NO ESTÁ INDICADA LA PROFILAXIS ANTIBIÓTICA)**
+- BASE GPC: GPC: PREVENCIÓN DE INFECCIÓN DE HERIDAS.
+**OBSERVAR SIGNOS DE INFECCIÓN: ENROJECIMIENTO, CALOR LOCAL, AUMENTO DEL DOLOR, SECRECIÓN PURULENTA**
+- BASE GPC: GPC: PREVENCIÓN DE INFECCIÓN DE HERIDAS.
+### PARA QUEMADURAS
+**APLICACIÓN DE SULFADIAZINA DE PLATA TÓPICA CON GASA ESTÉRIL (EN QUEMADURAS DE SEGUNDO GRADO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE QUEMADURAS EN EL PRIMER NIVEL DE ATENCIÓN.
+**ENFRIAR LA ZONA CON AGUA CORRIENTE (NO HELADA) DURANTE 10-15 MINUTOS INMEDIATAMENTE DESPUÉS DE LA QUEMADURA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE QUEMADURAS. REDUCE LA PROGRESIÓN DE LA LESIÓN.
+**EVITAR REVENTAR AMPOLLAS (LAS AMPOLLAS INTACTAS PROTEGEN CONTRA INFECCIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE QUEMADURAS.
+**EVITAR APLICAR REMEDIOS CASEROS (PASTA DENTAL, CLARA DE HUEVO, MANTEQUILLA, ETC.)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE QUEMADURAS.
+### PARA INFECCIONES DE PIEL (ABSCESOS, PARONIQUIA, FOLICULITIS)
+**CURACIONES CON SOLUCIÓN ANTISÉPTICA CADA 12 HORAS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA CELULITIS Y ERISIPELA. EL CUIDADO LOCAL ES FUNDAMENTAL.
+**EVITAR AUTOMEDICACIÓN, MANIPULACIÓN DE LA LESIÓN Y EXPRIMIR (PUEDE DISEMINAR LA INFECCIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA CELULITIS Y ERISIPELA.
+**MANTENER LA ZONA LIMPIA Y SECA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA CELULITIS Y ERISIPELA.
+**EN ABSCESOS, APLICAR COMPRESAS TIBIAS PARA FAVORECER DRENAJE ESPONTÁNEO (PREVIA EVALUACIÓN MÉDICA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA CELULITIS Y ERISIPELA.
+### PARA OTITIS EXTERNA
+**LIMPIEZA DEL CONDUCTO AUDITIVO EXTERNO CON SOLUCIÓN SALINA O AGUA OXIGENADA DILUIDA (SOLO SI ESTÁ INDICADO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA OTITIS EXTERNA AGUDA. LA LIMPIEZA FACILITA LA ACCIÓN DE LOS MEDICAMENTOS TÓPICOS.
+**EVITAR INTRODUCIR OBJETOS (HISOPOS, UÑAS, GANCHOS) EN EL OÍDO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA OTITIS EXTERNA AGUDA.
+**MANTENER EL OÍDO SECO DURANTE EL BAÑO (USAR TAPONES DE SILICONA O ALGODÓN CON VASELINA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA OTITIS EXTERNA AGUDA.
+### PARA HEMORROIDES Y FISURA ANAL
+**BAÑOS DE ASIENTO CON AGUA TIBIA (SENTARSE EN UNA TINA CON AGUA TIBIA QUE CUBRA CADERAS Y GLÚTEOS) DURANTE 10-15 MINUTOS, 2-3 VECES AL DÍA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEMORROIDAL EN EL PRIMER NIVEL DE ATENCIÓN. EL AGUA TIBIA ALIVIA EL DOLOR Y LA INFLAMACIÓN.
+**EVITAR ESFUERZO AL EVACUAR Y USO DE PAPEL HIGIÉNICO ÁSPERO O PERFUMADO (PREFERIR TOALLITAS HÚMEDAS SIN ALCOHOL O LAVADO CON AGUA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEMORROIDAL.
+**SECAR LA ZONA CON TOALLA SUAVE (SIN FROTAR) DESPUÉS DE CADA LAVADO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEMORROIDAL.
+### PARA RINITIS Y RESFRIADO COMÚN
+**LAVADOS NASALES CON SOLUCIÓN SALINA (2-3 VECES AL DÍA, ESPECIALMENTE ANTES DE DORMIR)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA RINITIS ALÉRGICA. LOS LAVADOS NASALES REMUEVEN MOCO Y ALÉRGENOS.
+**USO DE HUMIDIFICADOR AMBIENTAL O VAPORIZADOR (ESPECIALMENTE EN HABITACIONES CON AIRE ACONDICIONADO O CALEFACCIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA RINITIS ALÉRGICA. AYUDA A MANTENER HIDRATADA LA MUCOSA NASAL.
+**INHALACIÓN DE VAPORES (CON PRECAUCIÓN, NO EN NIÑOS PEQUEÑOS)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA RINITIS ALÉRGICA.
+**EVITAR EXPOSICIÓN A ALÉRGENOS (POLVO, ÁCAROS, POLEN, HUMO DE TABACO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA RINITIS ALÉRGICA.
+### PARA CANDIDIASIS DEL PAÑAL
+**CAMBIO FRECUENTE DE PAÑAL (CADA 3-4 HORAS O INMEDIATAMENTE DESPUÉS DE CADA EVACUACIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LAS DERMATITIS DEL PAÑAL EN EL NIÑO. LA HIGIENE ES LA BASE DEL TRATAMIENTO.
+**APLICACIÓN DE TALCO O CREMA BARRERA (BEPANTHEN, ÓXIDO DE ZINC) EN CADA CAMBIO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LAS DERMATITIS DEL PAÑAL. LAS CREMAS BARRERA PROTEGEN LA PIEL.
+**MANTENER LA ZONA LIMPIA Y SECA, DEJAR SIN PAÑAL PERIODOS CORTOS AL DÍA (BAÑOS DE AIRE)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LAS DERMATITIS DEL PAÑAL.
+**EVITAR TOALLITAS HÚMEDAS CON ALCOHOL O PERFUME (PREFERIR LAVADO CON AGUA TIBIA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LAS DERMATITIS DEL PAÑAL.
+### PARA DERMATITIS ATÓPICA O POR CONTACTO
+**USO DE JABONES NEUTROS, SYNDET (SIN DETERGENTE) Y AGUA TIBIA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS ATÓPICA EN EL NIÑO Y EL ADULTO.
+**HIDRATACIÓN INTENSA CON CREMAS EMOLIENTES (SIN PERFUME, VARIAS VECES AL DÍA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS ATÓPICA.
+**EVITAR RASCADO (MANTENER UÑAS CORTAS, USAR ROPA DE ALGODÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS ATÓPICA.
+**IDENTIFICAR Y EVITAR ALÉRGENOS O IRRITANTES ESPECÍFICOS**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS POR CONTACTO.
+## MEDIDAS DE SEGUIMIENTO Y AUTOCUIDADO
+### PARA ENFERMEDADES CRÓNICAS
+**LLEVAR BITÁCORA DE PRESIÓN ARTERIAL (TRES TOMAS AL DÍA: MAÑANA, TARDE Y NOCHE, DURANTE VARIOS DÍAS, REGISTRANDO FECHA Y HORA)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL. EL AUTOMONITOREO MEJORA EL CONTROL.
+**LLEVAR BITÁCORA DE GLUCOSAS CAPILARES (REGISTRAR VALORES EN AYUNO, PRE Y POSTPRANDIALES SEGÚN INDICACIÓN)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2. EL AUTOMONITOREO ES ESENCIAL PARA AJUSTAR TRATAMIENTO.
+**REGISTRAR PESO SEMANALMENTE (MISMO DÍA, MISMA HORA, MISMA BÁSCULA, CON ROPA LIGERA)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DEL SOBREPESO Y LA OBESIDAD.
+**ACUDIR A CONSULTA EXTERNA DE MEDICINA FAMILIAR PARA AJUSTE DE TRATAMIENTO, EVALUACIÓN DE METAS Y DETECCIÓN OPORTUNA DE COMPLICACIONES**
+- BASE GPC: TODAS LAS GPC DE ENFERMEDADES CRÓNICAS ENFATIZAN EL SEGUIMIENTO PERIÓDICO.
+**MANTENER ESQUEMA DE VACUNACIÓN COMPLETO (INFLUENZA, NEUMOCOCO, COVID-19, TÉTANOS)**
+- BASE GPC: PROGRAMA DE VACUNACIÓN UNIVERSAL.
+**REALIZARSE ESTUDIOS DE LABORATORIO (PERFIL DE LÍPIDOS, HBA1C, CREATININA, EGO) SEGÚN INDICACIÓN MÉDICA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2.
+### PARA CRISIS HIPERTENSIVA
+**MONITOREO DE PRESIÓN ARTERIAL EN CASA EN DIFERENTES MOMENTOS DEL DÍA**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+**IDENTIFICAR Y EVITAR FACTORES DESENCADENANTES (ESTRÉS, ALCOHOL, TABACO, SAL, ALIMENTOS PROCESADOS)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSION ARTERIAL.
+**RECONOCER SÍNTOMAS DE ALARMA (CEFALEA INTENSA, MAREO, VISIÓN BORROSA, DOLOR TORÁCICO, DISNEA)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL.
+### PARA DIABETES
+**CONTROL DE GLUCEMIA CAPILAR CON FRECUENCIA INDICADA POR EL MÉDICO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2.
+**REVISIÓN DIARIA DE PIES (INSPECCIONAR PRESENCIA DE HERIDAS, AMPOLLAS, CAMBIOS DE COLORACIÓN O TEMPERATURA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2. PREVENCIÓN DE PIE DIABÉTICO.
+**CUIDADO DE PIES: LAVADO CON AGUA TIBIA, SECADO CUIDADOSO (ESPECIALMENTE ENTRE LOS DEDOS), UÑAS CORTADAS RECTAS, USO DE CALZADO ADECUADO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2.
+**RECONOCER SÍNTOMAS DE HIPOGLUCEMIA (SUDORACIÓN, TEMBLOR, PALPITACIONES, HAMBRE, CONFUSIÓN) E HIPERGLUCEMIA (POLIDIPSIA, POLIURIA, VISIÓN BORROSA)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2. LA EDUCACIÓN AL PACIENTE ES FUNDAMENTAL.
+### PARA ANSIEDAD Y ESTRÉS
+**TÉCNICAS DE RELAJACIÓN, RESPIRACIÓN PROFUNDA (RESPIRACIÓN DIAFRAGMÁTICA, TÉCNICA 4-7-8)**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD EN EL PRIMER NIVEL DE ATENCIÓN.
+**EVITAR SITUACIONES ESTRESANTES EN LA MEDIDA DE LO POSIBLE, ESTABLECER LÍMITES**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD.
+**CONTENCIÓN VERBAL Y APOYO PSICOLÓGICO (ESCUCHA ACTIVA, EMPATÍA, VALIDACIÓN DE EMOCIONES)**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD. LA ESCUCHA ACTIVA ES LA PRIMERA INTERVENCIÓN.
+**EJERCICIO FÍSICO REGULAR PARA LIBERAR ENDORFINAS (CAMINATA, YOGA, TAI CHI)**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD.
+**MANTENER UNA RED DE APOYO SOCIAL (FAMILIA, AMIGOS, GRUPOS DE AYUDA)**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD.
+**EVITAR CONSUMO DE ALCOHOL, CAFEÍNA Y OTRAS SUSTANCIAS QUE PUEDAN EXACERBAR LA ANSIEDAD**
+- BASE GPC: GPC: MANEJO DE LA ANSIEDAD.
+### PARA MIGRAÑA Y CEFALEA TENSIONAL
+**IDENTIFICAR Y EVITAR DESENCADENANTES ESPECÍFICOS DE CADA PACIENTE (ESTRÉS, FALTA DE SUEÑO, ALIMENTOS: CHOCOLATE, QUESO AÑEJO, VINO TINTO, CAFEÍNA, AYUNO PROLONGADO, LUCES BRILLANTES, RUIDO)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA MIGRAÑA Y CEFALEA TENSIONAL EN EL ADULTO.
+**MANTENER HORARIOS REGULARES DE SUEÑO (7-9 HORAS), COMIDAS Y ACTIVIDAD FÍSICA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA MIGRAÑA.
+**LLEVAR UN DIARIO DE CEFALEAS (FRECUENCIA, INTENSIDAD, DURACIÓN, DESENCADENANTES, MEDICAMENTOS UTILIZADOS)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA MIGRAÑA.
+**DESCANSAR EN UN AMBIENTE OSCURO, TRANQUILO Y FRESCO DURANTE EL ATAQUE AGUDO**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA MIGRAÑA.
+### GENERALES
+**CONOCER Y VIGILAR DATOS DE ALARMA PARA CADA PADECIMIENTO (FIEBRE PERSISTENTE, SANGRADO ANORMAL, DOLOR INTENSO QUE NO CEDE, SOMNOLENCIA, CONFUSIÓN, DIFICULTAD RESPIRATORIA, DATOS DE ALARMA NEUROLÓGICOS)**
+- BASE GPC: TODAS LAS GPC INCLUYEN UN APARTADO DE DATOS DE ALARMA QUE EL PACIENTE DEBE CONOCER.
+**ACUDIR A URGENCIAS SI SE PRESENTAN DATOS DE ALARMA (CITA ABIERTA)**
+- BASE GPC: ESTÁNDAR DE SEGURIDAD EN EL PRIMER NIVEL DE ATENCIÓN.
+**SEGUIMIENTO CON MÉDICO FAMILIAR PARA EVALUACIÓN INTEGRAL, AJUSTE DE TRATAMIENTO Y PREVENCIÓN DE COMPLICACIONES**
+- BASE GPC: TODAS LAS GPC DE PADECIMIENTOS CRÓNICOS Y RECURRENTES.
+**NO AUTOMEDICARSE NI SUSPENDER TRATAMIENTOS INDICADOS SIN SUPERVISIÓN MÉDICA**
+- BASE GPC: TODAS LAS GPC.
+**CONSERVAR Y LLEVAR A CONSULTA LOS RESULTADOS DE ESTUDIOS Y RESÚMENES MÉDICOS**
+- BASE GPC: ESTÁNDAR DE CONTINUIDAD DE LA ATENCIÓN.
+## MEDIDAS DE OBSERVACIÓN Y VIGILANCIA HOSPITALARIA
+**VIGILANCIA NEUROLÓGICA: ESCALA DE GLASGOW, TAMAÑO Y REACTIVIDAD PUPILAR, FUERZA Y SENSIBILIDAD EN EXTREMIDADES, EN TRAUMATISMO CRANEOENCEFÁLICO O EVENTO VASCULAR CEREBRAL**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL TRAUMA CRANEOENCEFÁLICO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN Y GPC: ABORDAJE DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD VASCULAR CEREBRAL ISQUÉMICA.
+**VIGILANCIA RESPIRATORIA: FRECUENCIA RESPIRATORIA, SATURACIÓN DE OXÍGENO POR PULSIOXIMETRÍA, PATRÓN RESPIRATORIO, PRESENCIA DE TIRAJE O ALETEO NASAL**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA NEUMONÍA ADQUIRIDA EN LA COMUNIDAD Y GPC: CRISIS ASMÁTICA EN EL ADULTO Y EL NIÑO.
+**VIGILANCIA DE SIGNOS VITALES (PRESIÓN ARTERIAL, FRECUENCIA CARDÍACA, TEMPERATURA) CADA 4-6 HORAS SEGÚN ESTABILIDAD DEL PACIENTE**
+- BASE GPC: ESTÁNDAR DE ATENCIÓN HOSPITALARIA.
+**CONTROL ESTRICTO DE INGRESOS Y EGRESOS (BALANCE HÍDRICO) EN PACIENTES CON INSUFICIENCIA CARDÍACA, RENAL O DESHIDRATACIÓN SEVERA**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA CARDÍACA CRÓNICA.
+**CÓDIGO DE EVACUACIONES (EN CASO DE DESASTRES, SINIESTROS O CONTINGENCIAS HOSPITALARIAS)**
+- BASE GPC: PROTOCOLOS INSTITUCIONALES DE PROTECCIÓN CIVIL IMSS.
+**REPORTAR EVENTUALIDADES AL MÉDICO TRATANTE (CAMBIOS EN EL ESTADO CLÍNICO, REACCIONES ADVERSAS A MEDICAMENTOS)**
+- BASE GPC: ESTÁNDAR DE SEGURIDAD DEL PACIENTE.
+**MONITOREO FETAL EN EMBARAZADAS CON SANGRADO, DOLOR O HIPERTENSIÓN (FRECUENCIA CARDÍACA FETAL, DINÁMICA UTERINA)**
+- BASE GPC: GPC: CONTROL PRENATAL Y ATENCIÓN OBSTÉTRICA.
+## OTRAS MEDIDAS ESPECÍFICAS
+**AYUNO HASTA NUEVA ORDEN (PREOPERATORIO, PARA ESTUDIOS DE LABORATORIO O GABINETE, O EN PATOLOGÍAS ABDOMINALES AGUDAS)**
+- BASE GPC: PROTOCOLOS PREOPERATORIOS INSTITUCIONALES Y GPC: ABORDAJE DIAGNÓSTICO DEL DOLOR ABDOMINAL EN EL ADULTO.
+**DIETA BLANDA ASISTIDA POR FAMILIAR (EN PACIENTES CON DIFICULTAD PARA DEGLUTIR, POSTOPERATORIOS O CON TRASTORNOS NEUROLÓGICOS)**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA DISFAGIA EN EL ADULTO MAYOR.
+**DIETA EN PAPILLA (PARA NIÑOS PEQUEÑOS EN ETAPA DE ABLACTACIÓN O ADULTOS CON PROBLEMAS DE MASTICACIÓN)**
+- BASE GPC: GPC DE ALIMENTACIÓN INFANTIL Y ADULTO MAYOR.
+**REPOSO ABSOLUTO EN CAMA EN FASE AGUDA DE CIERTAS PATOLOGÍAS (IAM, PANCREATITIS, TRAUMA MAYOR)**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL INFARTO AGUDO AL MIOCARDIO.
+**USO DE FÉRULAS O COLLARÍN CERVICAL SEGÚN INDICACIÓN**
+- BASE GPC: GPC: DIAGNÓSTICO Y TRATAMIENTO DEL TRAUMA RAQUIMEDULAR EN EL ADULTO.
+**TERAPIA DE LENGUAJE Y REHABILITACIÓN EN SECUELAS DE EVC O TRAUMATISMO**
+- BASE GPC: GPC: ABORDAJE DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD VASCULAR CEREBRAL ISQUÉMICA.
+**ESTIMULACIÓN TEMPRANA EN NIÑOS CON RETRASO EN EL DESARROLLO**
+- BASE GPC: GPC: DETECCIÓN Y MANEJO DE LOS TRASTORNOS DEL DESARROLLO EN EL NIÑO.
+**AISLAMIENTO DOMICILIARIO EN ENFERMEDADES INFECTOCONTAGIOSAS (INFLUENZA, COVID-19, VARICELA)**
+- BASE GPC: LINEAMIENTOS DE SALUD PÚBLICA.
+**EDUCACIÓN EN SALUD SEXUAL Y REPRODUCTIVA (USO DE PRESERVATIVOS, MÉTODOS ANTICONCEPTIVOS, PREVENCIÓN DE ITS)**
+- BASE GPC: GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS INFECCIONES DE TRANSMISIÓN SEXUAL.
+## RESUMEN DE GUÍAS DE PRÁCTICA CLÍNICA MEXICANAS CONSULTADAS
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DISPEPSIA FUNCIONAL Y ENFERMEDAD ULCEROSA PÉPTICA
+- GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA ENFERMEDAD POR REFLUJO GASTROESOFÁGICO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: MANEJO DE LA DIARREA AGUDA EN EL ADULTO
+- GPC: MANEJO DE LA ENFERMEDAD DIARREICA AGUDA EN EL NIÑO
+- GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA HIPERTENSIÓN ARTERIAL EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2 EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS DISLIPIDEMIAS EN EL ADULTO
+- GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DEL SOBREPESO Y LA OBESIDAD EN EL ADULTO
+- GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD RENAL CRÓNICA TEMPRANA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEPÁTICA GRASA NO ALCOHÓLICA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DEL ESTREÑIMIENTO CRÓNICO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE ESGUINCE DE TOBILLO Y DE RODILLA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA LUMBALGIA AGUDA EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA VENOSA CRÓNICA EN EL ADULTO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ARTROSIS DE RODILLA Y CADERA EN EL ADULTO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DEL VÉRTIGO EN EL ADULTO EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LOS TRASTORNOS MENSTRUALES EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: PREVENCIÓN DE INFECCIÓN DE HERIDAS QUIRÚRGICAS Y TRAUMÁTICAS
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE QUEMADURAS EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA CELULITIS Y ERISIPELA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA OTITIS EXTERNA AGUDA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD HEMORROIDAL EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA RINITIS ALÉRGICA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LAS DERMATITIS DEL PAÑAL EN EL NIÑO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS ATÓPICA EN EL NIÑO Y EL ADULTO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA DERMATITIS POR CONTACTO
+- GPC: MANEJO DE LA ANSIEDAD EN EL PRIMER NIVEL DE ATENCIÓN
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA MIGRAÑA Y CEFALEA TENSIONAL EN EL ADULTO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DEL TRAUMA CRANEOENCEFÁLICO EN EL ADULTO
+- GPC: ABORDAJE DIAGNÓSTICO Y TRATAMIENTO DE LA ENFERMEDAD VASCULAR CEREBRAL ISQUÉMICA
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+- GPC: CRISIS ASMÁTICA EN EL ADULTO Y EL NIÑO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DE LA INSUFICIENCIA CARDÍACA CRÓNICA
+- GPC: ABORDAJE DIAGNÓSTICO Y TERAPÉUTICO DE LA DISFAGIA EN EL ADULTO MAYOR
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DEL INFARTO AGUDO AL MIOCARDIO
+- GPC: DIAGNÓSTICO Y TRATAMIENTO DEL TRAUMA RAQUIMEDULAR EN EL ADULTO
+- GPC: DETECCIÓN Y MANEJO DE LOS TRASTORNOS DEL DESARROLLO EN EL NIÑO
+- GPC: CONTROL PRENATAL Y ATENCIÓN OBSTÉTRICA
+- GPC: PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS INFECCIONES DE TRANSMISIÓN SEXUAL
+ESTE DOCUMENTO CONSTITUYE UNA GUÍA PRÁCTICA COMPLETA DE MEDIDAS NO FARMACOLÓGICAS BASADAS EN LA EVIDENCIA Y ALINEADAS CON LAS RECOMENDACIONES OFICIALES MEXICANAS, PARA SER UTILIZADAS EN EL PRIMER NIVEL DE ATENCIÓN, CON EL OBJETIVO DE PROMOVER UN MANEJO INTEGRAL, SEGURO Y EFECTIVO DE LOS PACIENTES.
