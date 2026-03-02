@@ -1,0 +1,17 @@
+Esguince de tobillo en adultos: Evaluación y diagnóstico
+
+●Epidemiología – Los factores de riesgo para el esguince lateral del tobillo incluyen dorsiflexión limitada, reducción de la propiocepción y deficiente equilibrio. Entre las actividades, los deportes de cancha cubierta representan el mayor riesgo. El mecanismo de la mayoría de los esguinces de tobillo implica la inversión del pie con flexión plantar y daña los ligamentos laterales. Los esguinces de tobillo medial son relativamente poco comunes. (Véase 'Epidemiología y factores de riesgo' arriba y 'Clasificación de esguinces de tobillo' arriba.)
+
+●Historial – Realizar una historia clínica cuidadosa para determinar el mecanismo de la lesión, si el paciente podía caminar después de la lesión (importante para las normas de tobillo de Ottawa) y si el tobillo había sido lesionado previamente (el historial de esguince de tobillo aumenta el riesgo de lesión posterior). (Véase 'Historia' arriba.)
+
+●Examen físico – El examen físico debe incluir la palpación de toda la fíbula, la tibia distal, la línea articular, los ligamentos lateral y medial del tobillo, el tendón de Aquiles y las zonas cubiertas por las reglas de Ottawa del tobillo (borde posterior o punta del maléolo lateral, borde posterior o punta del maléolo medial, base del quinto metatarsiano, hueso navicular). Las pruebas de cajón anterior (imagen 8) e inclinación tálar (imagen 9) pueden ayudar a identificar lesiones ligamentosas más graves. La prueba de presión (imagen 6) y la prueba de rotación externa (imagen 7) pueden ayudar a identificar lesiones sindesmóticas. Un examen diferido realizado unos días después de la lesión es más preciso. (Véase 'Examen físico' arriba y 'Pruebas especiales' arriba.)
+
+●Imagen diagnóstica – Las normas de tobillo de Ottawa (figura 6) ayudan a determinar si son necesarias radiografías simples. (Véase 'Determinando la necesidad de radiografías' arriba y 'Reglas del tobillo de Ottawa' arriba.)
+
+Para descartar una fractura de tobillo, obtén láminas anteroposteriores, laterales y mortajas lisas del tobillo, si es necesario. Las fracturas malleolares, fracturas distales de peroné, fracturas de cúpula talar y separación por sindesmosis pueden diagnosticarse mediante radiografías simples. (Véase 'Selección de la modalidad de imagen' arriba.)
+
+La ecografía en el punto de atención es una herramienta útil para evaluar lesiones tendinosas y ligamentos cuando la realizan operadores cualificados. (Véase 'Ecografía' arriba.)
+
+●Diagnóstico diferencial – El diagnóstico diferencial de esguince agudo del tobillo incluye rotura de tendones, fractura, fractura por estrés, subluxación y varias otras condiciones. A menudo, el diagnóstico puede aclararse basándose en un historial sugerente de traumatismo agudo del tobillo y en los hallazgos del examen sin necesidad de estudios de imagen. En casos de traumatismos significativos o cuando las normas de tobillo de Ottawa no son aplicables, la imagen diagnóstica aclara el diagnóstico. (Véase 'Diagnóstico diferencial' arriba y 'Diagnóstico' arriba.)
+
+●Gestión – El manejo de los esguinces de tobillo se discute por separado. (Véase "Esguince de tobillo en adultos: Manejo" y "Lesión sindesmótica de tobillo (esguince alto de tobillo)".)
