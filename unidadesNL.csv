@@ -1,0 +1,86 @@
+nivel,tipo,numero,nombre_unidad,municipio,direccion,telefono,cp
+primer_nivel,UMF,1,"UMF No. 1 ""Dr. Carlos Mac Gregor""",Monterrey,"Av. Francisco I. Madero y Av. Lázaro Cárdenas S/N, Centro",81-83-44-36-33,64000
+primer_nivel,UMF,2,"UMF No. 2 ""Dr. Samuel de León""",Monterrey,"Av. Universidad y Av. Fidel Velázquez S/N, Mitras Centro",81-83-46-29-23,64460
+primer_nivel,UMF,3,"UMF No. 3 ""Dr. José Eleuterio González""",Monterrey,"Av. Félix Uresti Gómez y Colón S/N, Centro",81-83-75-04-58,64000
+primer_nivel,UMF,4,UMF No. 4,Guadalupe,"Av. Benito Juárez y Calle Mina S/N, Centro",81-83-54-15-22,67100
+primer_nivel,UMF,5,"UMF No. 5 ""Dr. Lorenzo Garza""",Monterrey,"Ignacio Morones Prieto esq. Loma Larga",81-83-40-69-67,64710
+primer_nivel,UMF,6,UMF No. 6,Monterrey,"Av. Constitución y Prof. G. Torres S/N, Centro",81-83-44-82-52,64010
+primer_nivel,UMF,7,UMF No. 7,San Pedro Garza García,"Blvd. Díaz Ordaz Km. 33, Col. La Leona",81-83-36-11-12,66210
+primer_nivel,UMF,8,UMF No. 8,Santiago,"Calle Allende y Calle Zaragoza S/N, Centro",823-2370145,67300
+primer_nivel,UMF,9,UMF No. 9,Salinas Victoria,"Calle Zaragoza 7, Centro",823-2370205,65500
+primer_nivel,UMF,10,UMF No. 10,Guadalupe,"Av. Revolución y Calle Morelos S/N, Centro",81-83-60-70-78,67110
+primer_nivel,UMF,11,UMF No. 11,Monterrey,"Av. Madero y Av. Colón S/N, Centro",81-83-44-60-89,64000
+primer_nivel,UMF,12,UMF No. 12,Linares,"Calle Hidalgo y Calle Mina S/N, Centro",821-2120740,67500
+primer_nivel,UMF,13,UMF No. 13,General Terán,"Reforma esq. Guillermo Prieto",826-2670146,67400
+primer_nivel,UMF,14,UMF No. 14,Cadereyta Jiménez,"Juárez S/N, entre Calles 15 y 16",828-2840646,67450
+primer_nivel,UMF,15,UMF No. 15,Monterrey,"Av. Ruiz Cortines, entre Cerezo y Durazno, Col. Moderna",81-83-51-01-24,64530
+primer_nivel,UMF,16,UMF No. 16,Allende,"Morelos esq. Escobedo",826-2682095,67350
+primer_nivel,UMF,17,UMF No. 17,Monterrey,"Av. Sendero y Av. Universidad S/N",81-83-81-48-20,64620
+primer_nivel,UMF,18,UMF No. 18,Hualahuises,"Domicilio Conocido",821-2180183,67880
+primer_nivel,UMF,19,UMF No. 19,Apodaca,"Zaragoza esq. Allende",81-83-86-06-17,66600
+primer_nivel,UMF,20,UMF No. 20,Juárez,"Av. Arturo B. de La Garza S/N esq. Francisco I. Madero",82-33-00-27,67250
+primer_nivel,UMF,21,UMF No. 21,Monterrey,"Av. Pino Suárez y 15 de Mayo S/N, Centro",81-83-42-43-71,64000
+primer_nivel,UMF,22,UMF No. 22,Monterrey,"Av. Insurgentes y Av. del Roble S/N",81-83-48-23-25,64720
+primer_nivel,UMF,23,UMF No. 23,Monterrey,"Av. Gonzalitos y Av. del Consulado S/N",81-83-44-18-53,64460
+primer_nivel,UMF,24,UMF No. 24,García,"Av. Hidalgo 205",81-82-83-01-51,66000
+primer_nivel,UMF,25,UMF No. 25,Monterrey,"Av. Colón y Av. Universidad S/N",81-83-71-20-31,64460
+primer_nivel,UMF,26,UMF No. 26,Monterrey,"Av. Lincoln S/N esq. Enf. Ma. de Jesus Candía, Col. Valle Verde I",81-83-10-00-11,64360
+primer_nivel,UMF,27,UMF No. 27,Guadalupe,"Cardenal esq. Gorrión, Fracc. Exposición",81-83-37-12-90,67100
+primer_nivel,UMF,28,UMF No. 28,Monterrey,"Av. Penitenciaria esq. Fidel Velázquez, Fracc. Bernardo Reyes",81-83-71-52-12,64280
+primer_nivel,UMF,29,UMF No. 29,Guadalupe,"Av. Pablo Livas 5501 esq. Av. Zertuche, Col. Zertuche",81-83-60-70-78,67190
+primer_nivel,UMF,30,UMF No. 30,Guadalupe,"Av. Margarita Maza de Juárez esq. Los Pinos, Col. Chulavista",81-83-60-74-85,67190
+primer_nivel,UMF,31,UMF No. 31,San Nicolás de los Garza,"Carretera a Laredo No. 104 esq. B. Juárez",81-83-76-08-27,66460
+primer_nivel,UMF,32,UMF No. 32,Guadalupe,"Arteaga esq. Jiménez, Col. Paraíso",81-83-55-54-30,67140
+primer_nivel,UMF,33,UMF No. 33,Monterrey,"Av. Constitución y Prof. G. Torres S/N",81-83-42-13-23,64010
+primer_nivel,UMF,34,UMF No. 34,Monterrey,"Av. Gonzalitos y Av. Lincoln S/N",81-83-71-20-31,64320
+primer_nivel,UMF,35,UMF No. 35,Monterrey,"Av. Solidaridad esq. Magnolia, Col. Aztlán",81-83-11-26-34,64730
+primer_nivel,UMF,36,UMF No. 36,Monterrey,"Av. Lázaro Cárdenas 6751 y Alfonso Reyes, Col. 15 de Septiembre",81-83-49-68-36,64760
+primer_nivel,UMF,37,UMF No. 37,Monterrey,"Av. Urdiales No. 111 esq. Pról. Madero, Col. Mitras Centro",81-83-46-16-04,64460
+primer_nivel,UMF,38,UMF No. 38,Monterrey,"Juan I. Ramón esq. Guerrero, Zona Centro",81-83-44-60-89,64000
+primer_nivel,UMF,39,UMF No. 39,Monterrey,"Estornino esq. Pról. Ruiz Cortines, Col. Valle Verde 2o. Sector",81-83-81-48-20,64117
+primer_nivel,UMF,40,UMF No. 40,San Nicolás de los Garza,"Av. Universidad S/N",81-83-76-12-06,66400
+primer_nivel,UMF,41,UMF No. 41,Doctor González,"Matamoros 109 entre República y Zuazua",824-2410001,66750
+primer_nivel,UMF,42,UMF No. 42,El Carmen,"Venustiano Carranza 401",823-2360098,66550
+primer_nivel,UMF,43,UMF No. 43,General Escobedo,"Celestino Gasca S/N esq. Guanajuato, Col. Celestino Gasca",81-83-97-09-90,66050
+primer_nivel,UMF,44,UMF No. 44,Ciénega de Flores,"Independencia 800 esq. Carretera Laredo",825-2380093,65500
+primer_nivel,UMF,45,UMF No. 45,Hidalgo,"Privada Morelos esq. Ocampo",829-2860464,65600
+primer_nivel,UMF,46,UMF No. 46,Villaldama,"Guerrero S/N esq. Aldama",829-2450195,65350
+primer_nivel,UMF,47,UMF No. 47,Lampazos de Naranjo,"Zuazua S/N",873-7380202,65070
+primer_nivel,UMF,48,UMF No. 48,Anáhuac,"Carretera a Colombia S/N",873-7370733,65030
+primer_nivel,UMF,49,UMF No. 49,Agualeguas,"Carretera a Nogalar Km. 1",892-9910088,65800
+primer_nivel,UMF,50,UMF No. 50,Cerralvo,"General Calles S/N",892-9750059,65900
+primer_nivel,UMF,51,UMF No. 51,China,"Zaragoza S/N",823-2320311,67050
+primer_nivel,UMF,52,UMF No. 52,Galeana,"Domicilio Conocido, San Rafael",826-2132600,65865
+primer_nivel,UMF,53,UMF No. 53,Galeana,"Domicilio Conocido, Carretera Galeana-Linares",826-2130430,65030
+primer_nivel,UMF,54,UMF No. 54,Aramberri,"Domicilio Conocido",826-2132121,67940
+primer_nivel,UMF,55,UMF No. 55,Doctor Arroyo,"Domicilio Conocido",488-8880224,67900
+primer_nivel,UMF,56,UMF No. 56,Aramberri,"Bernardo Reyes S/N, La Ascensión",826-2132300,67950
+primer_nivel,UMF,58,UMF No. 58,San Pedro Garza García,"Blvd. Díaz Ordaz 336, Col. La Leona",81-83-36-14-27,66210
+primer_nivel,UMF,61,UMF No. 61,Apodaca,"Morelos 599 esq. Aldama",81-83-86-31-26,66620
+primer_nivel,UMF,63,UMF No. 63,Marín,"Escobedo y Regules",825-2480437,66700
+primer_nivel,UMF,64,UMF No. 64,Santa Catarina,"Av. Manuel Ordóñez Cruz esq. Pedro Garfias, Fracc. Cumbres",81-83-08-53-40,66200
+primer_nivel,UMF,66,UMF No. 66,Apodaca,"Av. Río Pilón 1000, Col. Pueblo Nuevo V",800-623-2323,66646
+primer_nivel,UMF,68,UMF No. 68,Guadalupe,"Av. Maestro Israel Cavazos 350, Col. Rincón de la Sierra",800-623-2323,67194
+primer_nivel,UMF,69,UMF No. 69,Monterrey,"Av. Abraham Lincoln y Enf. María de Jesús Candía S/N, Col. Valle Verde 1er Sector",800-623-2323,64360
+primer_nivel,UMF,70,UMF No. 70,General Zuazua,"Av. La Reforma S/N, Col. Real de Palmas",800-623-2323,65760
+primer_nivel,UMF,71,UMF No. 71,Apodaca,"Morelos 599 esq. Aldama, Apodaca Centro",81-83-86-31-26,66620
+primer_nivel,UMF,73,UMF No. 73,San Nicolás de los Garza,"Av. Diego Díaz de Berlanga S/N",81-83-XX-XX-XX,66460
+primer_nivel,UMF,74,UMF No. 74,General Escobedo,"Por definir (en construcción)",Por definir,66050
+primer_nivel,UCMA,-,UCMA Monterrey,Monterrey,"José María Morelos Ote. 133, Centro",800-623-2323,64000
+segundo_nivel,HGZMF,2,"HGZMF No. 2 ""Dr. Victoriano de la Garza""",Monterrey,"Av. Constitución Oriente esq. Prof. G. Torres, Zona Centro",81-83-44-82-52,64010
+segundo_nivel,HGZMF,4,"HGZMF No. 4 ""Dr. Carlos Guevara González""",Guadalupe,"Matamoros esq. Zuazua",81-83-54-15-22,67100
+segundo_nivel,HGZMF,6,"HGZMF No. 6 ""Dr. Eduardo Liceaga""",San Nicolás de los Garza,"Carretera a Laredo No. 104 esq. B. Juárez",81-83-76-12-06,66460
+segundo_nivel,HGZMF,17,HGZMF No. 17,Monterrey,"Fortunato Lozano 2627 entre Roble y 18 de Marzo, Col. Benito Juárez",81-83-48-23-25,64420
+segundo_nivel,HGR,33,"HGR No. 33 ""Dr. Ignacio García Téllez""",Monterrey,"Av. Félix U. Gómez entre Ezequiel E. Chávez y Prof. Rafael Ramírez, Zona Centro",81-83-42-13-23,64010
+segundo_nivel,HGZ,67,"HGZ No. 67 ""Dr. Valentín Gómez Farías""",Apodaca,"Carretera Miguel Alemán S/N, Centro",800-623-2323,66600
+segundo_nivel,HGSZ,10,HGSZ No. 10,Sabinas Hidalgo,"Escobedo esq. Aldama",824-2421227,65200
+segundo_nivel,HGSZ,11,HGSZ No. 11,Montemorelos,"José María Paras esq. Ballesteros",826-2633460,67500
+segundo_nivel,HGSZ,12,HGSZ No. 12,Linares,"Emilio Carranza esq. Niños Héroes",821-2120740,67700
+segundo_nivel,UMAA,7,UMAA No. 7,San Nicolás de los Garza,"Av. Universidad S/N",81-83-76-12-06,66400
+segundo_nivel,UMAA,65,UMAA No. 65,San Nicolás de los Garza,"Av. de la Industria S/N",81-83-76-08-27,66400
+segundo_nivel,HPSIQ,22,H. Psiquiátrico No. 22,San Nicolás de los Garza,"Rayones 965, Col. Nogales Topo Chico",81-83-52-30-51,64200
+tercer_nivel,UMAE,21,"HTO No. 21 ""Dr. Victoriano de la Garza""",Monterrey,"Av. Pino Suárez entre 15 de Mayo y Juan Ignacio Ramón, Zona Centro",81-83-42-43-71,64000
+tercer_nivel,UMAE,23,"HGO No. 23 ""Centro Médico Nacional""",Monterrey,"Av. Constitución esq. Félix U. Gómez, Zona Centro",81-83-44-18-53,64010
+tercer_nivel,UMAE,25,"HES No. 25 ""Gonzalitos""",Monterrey,"Av. Gonzalitos y Av. Lincoln, Col. Mitras Norte",81-83-71-20-31,64320
+tercer_nivel,UMAE,34,H. Cardiología No. 34,Monterrey,"Av. Lincoln S/N esq. Enf. Ma. de Jesus Candía, Col. Valle Verde I",81-83-81-48-13,64360
+tercer_nivel,HGR,Nuevo,Hospital Regional Santa Catarina,Santa Catarina,"Por definir (553 camas, en construcción)",Por definir,66200
