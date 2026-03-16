@@ -5,208 +5,161 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Código Infarto UMF 73</title>
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #111;
+      --surface: #1a1f2e;
+      --border: #2e3650;
+      --text: #dde2ec;
+      --muted: #5a6480;
+      --accent: #e53e3e;
+      --green: #22863a;
+      --input-bg: #0d1017;
+    }
 
     body {
       font-family: 'Segoe UI', system-ui, sans-serif;
-      background: #0a0c10;
-      color: #e2e8f0;
+      background: var(--bg);
+      color: var(--text);
+      display: grid;
+      grid-template-columns: 3fr 2fr;
       height: 100vh;
       overflow: hidden;
+      font-size: 0.85rem;
     }
 
-    /* ── FORMULARIO (fondo completo) ── */
-    .form-card {
-      height: 100vh;
+    /* ---- COLUMNA FORMULARIO ---- */
+    .form {
       overflow-y: auto;
-      background: #1e2330;
-      border: 1px solid #2d3448;
-      border-radius: 12px;
-      padding: 0.75rem 1.25rem 1rem;
+      padding: 0.9rem 1.1rem;
+      border-right: 1px solid var(--border);
       scrollbar-width: thin;
-      scrollbar-color: #374151 transparent;
+      scrollbar-color: var(--border) transparent;
     }
 
-    .form-card::-webkit-scrollbar { width: 5px; }
-    .form-card::-webkit-scrollbar-thumb { background: #374151; border-radius: 4px; }
-
-    /* ── HEADER ── */
-    header {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      margin-bottom: 0.6rem;
-      padding-bottom: 0.5rem;
-      border-bottom: 1px solid #2d3448;
-    }
-
-    header h1 {
+    h1 {
       font-size: 1rem;
-      font-weight: 700;
-      color: #f87171;
+      color: var(--accent);
       text-transform: uppercase;
       letter-spacing: 0.06em;
+      margin-bottom: 0.15rem;
     }
 
-    header p {
-      font-size: 0.7rem;
-      color: #475569;
-    }
-
-    /* ── SECCIÓN ── */
-    .section {
-      margin-bottom: 0.5rem;
+    .subtitle {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 0.8rem;
     }
 
     .section-title {
-      font-size: 0.62rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #f87171;
-      margin-bottom: 0.35rem;
-      padding-bottom: 0.2rem;
-      border-bottom: 1px solid #2d3448;
-    }
-
-    /* ── GRID DE CAMPOS ── */
-    .fields-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0.35rem 0.75rem;
-    }
-
-    .fields-grid .span2 { grid-column: span 2; }
-
-    .field {
-      display: flex;
-      flex-direction: column;
-      gap: 0.18rem;
-    }
-
-    label {
-      font-size: 0.62rem;
-      font-weight: 700;
-      color: #64748b;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-    }
-
-    input[type="text"],
-    input[type="number"],
-    textarea {
-      width: 100%;
-      background: #0f1117;
-      border: 1px solid #374151;
-      border-radius: 5px;
-      color: #e2e8f0;
-      font-size: 0.8rem;
-      font-family: inherit;
-      padding: 0.3rem 0.5rem;
-      transition: border-color 0.15s;
-      resize: none;
-    }
-
-    input[type="text"]:focus,
-    input[type="number"]:focus,
-    textarea:focus {
-      outline: none;
-      border-color: #f87171;
-    }
-
-    textarea { min-height: 42px; }
-
-    /* ── TOGGLE SI/NO ── */
-    .toggle-group {
-      display: flex;
-      gap: 0.3rem;
-    }
-
-    .toggle-btn {
-      flex: 1;
-      padding: 0.28rem 0.4rem;
-      border-radius: 5px;
-      border: 1px solid #374151;
-      background: #0f1117;
-      color: #64748b;
-      font-size: 0.78rem;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 0.15s;
-    }
-
-    .toggle-btn.active-si { background: #166534; border-color: #16a34a; color: #bbf7d0; }
-    .toggle-btn.active-no { background: #7f1d1d; border-color: #dc2626; color: #fecaca; }
-
-    /* ── SIGNOS VITALES ── */
-    .sv-grid {
-      display: grid;
-      grid-template-columns: repeat(5, 1fr);
-      gap: 0.35rem;
-    }
-
-    /* ── TRATAMIENTO DEFAULT ── */
-    .trat-default {
-      background: #0f1117;
-      border: 1px solid #2d3448;
-      border-radius: 5px;
-      padding: 0.3rem 0.5rem;
-      font-size: 0.72rem;
-      color: #475569;
-      font-family: 'Courier New', monospace;
-      line-height: 1.4;
-      margin-bottom: 0.35rem;
-    }
-
-    /* ── CHECKBOX ── */
-    .check-field {
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-      font-size: 0.78rem;
-      color: #94a3b8;
-      cursor: pointer;
-    }
-
-    .check-field input[type="checkbox"] {
-      width: 14px;
-      height: 14px;
-      accent-color: #f87171;
-      cursor: pointer;
-      flex-shrink: 0;
-    }
-
-    /* ── PANEL FLOTANTE (output) ── */
-    .output-panel {
-      position: fixed;
-      bottom: 1rem;
-      right: 1rem;
-      width: 38%;
-      height: 38vh;
-      display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
-      background: #131720;
-      border: 1px solid #2d3448;
-      border-radius: 10px;
-      padding: 0.6rem 0.75rem;
-      z-index: 100;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.6);
-    }
-
-    .panel-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 0.4rem;
-    }
-
-    .panel-title {
-      font-size: 0.62rem;
+      font-size: 0.68rem;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.07em;
-      color: #f87171;
+      color: var(--accent);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.2rem;
+      margin: 0.7rem 0 0.45rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.4rem 0.7rem;
+    }
+
+    .span2 { grid-column: span 2; }
+
+    label {
+      display: block;
+      font-size: 0.68rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.18rem;
+    }
+
+    input, textarea {
+      width: 100%;
+      background: var(--input-bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text);
+      font-size: 0.82rem;
+      font-family: inherit;
+      padding: 0.3rem 0.5rem;
+      resize: none;
+    }
+
+    input:focus, textarea:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    textarea { min-height: 44px; }
+
+    .sv { grid-template-columns: repeat(5, 1fr); }
+
+    .toggle-row { display: flex; gap: 0.3rem; }
+
+    .tog {
+      flex: 1;
+      padding: 0.3rem;
+      border-radius: 4px;
+      border: 1px solid var(--border);
+      background: var(--input-bg);
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .tog.si { background: #14532d; border-color: #16a34a; color: #bbf7d0; }
+    .tog.no { background: #7f1d1d; border-color: var(--accent); color: #fecaca; }
+
+    .trat-info {
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-family: 'Courier New', monospace;
+      background: var(--input-bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.35rem 0.5rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .check-row {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.8rem;
+      color: var(--text);
+      padding: 0.1rem 0;
+    }
+
+    .check-row input[type="checkbox"] {
+      width: 14px;
+      height: 14px;
+      accent-color: var(--accent);
+      flex-shrink: 0;
+    }
+
+    /* ---- COLUMNA OUTPUT ---- */
+    .output {
+      display: flex;
+      flex-direction: column;
+      padding: 0.9rem 1rem;
+      gap: 0.5rem;
+    }
+
+    .output-title {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--accent);
     }
 
     .btn-row {
@@ -215,268 +168,211 @@
     }
 
     .btn {
-      padding: 0.3rem 0.65rem;
-      border-radius: 6px;
+      padding: 0.38rem 0.85rem;
+      border-radius: 5px;
       border: none;
-      font-size: 0.75rem;
+      font-size: 0.8rem;
       font-weight: 700;
       cursor: pointer;
-      transition: opacity 0.15s, transform 0.1s;
-      white-space: nowrap;
     }
 
-    .btn:active { transform: scale(0.97); }
     .btn:hover { opacity: 0.85; }
+    .btn:active { transform: scale(0.97); }
 
-    .btn-generate { background: #dc2626; color: #fff; }
-    .btn-copy     { background: #1e40af; color: #fff; }
-    .btn-clear    { background: #374151; color: #e2e8f0; }
+    .btn-gen   { background: var(--accent); color: #fff; }
+    .btn-copy  { background: #1e40af; color: #fff; }
+    .btn-clear { background: #2e3650; color: var(--text); }
 
     #output {
       flex: 1;
-      width: 100%;
-      background: #0a0c10;
-      border: 1px solid #374151;
-      border-radius: 6px;
+      background: var(--input-bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
       color: #a3e635;
       font-family: 'Courier New', monospace;
-      font-size: 0.72rem;
-      padding: 0.5rem 0.65rem;
+      font-size: 0.75rem;
+      padding: 0.6rem 0.75rem;
       resize: none;
       white-space: pre;
       overflow-y: auto;
     }
 
-    .copy-msg {
-      font-size: 0.68rem;
+    .copy-ok {
+      font-size: 0.7rem;
       color: #4ade80;
-      display: none;
-      text-align: right;
+      min-height: 1rem;
     }
-
-    .copy-msg.show { display: block; }
   </style>
 </head>
 <body>
 
-<!-- ══ FORMULARIO (pantalla completa) ══ -->
-<div class="form-card">
+<!-- FORMULARIO -->
+<div class="form">
+  <h1>&#9829; Código Infarto UMF 73</h1>
+  <p class="subtitle">Formato de captura para activación de código infarto</p>
 
-  <header>
+  <div class="section-title">Datos Generales</div>
+  <div class="grid">
     <div>
-      <h1>&#9829; Código Infarto UMF 73</h1>
-      <p>Formato de captura para activación de código infarto</p>
+      <label>Ambulancia</label>
+      <div class="toggle-row" id="t-ambulancia">
+        <button class="tog si" data-v="SI" onclick="tog('ambulancia','SI')">SI</button>
+        <button class="tog"    data-v="NO" onclick="tog('ambulancia','NO')">NO</button>
+      </div>
     </div>
-  </header>
-
-  <!-- Datos generales -->
-  <div class="section">
-    <div class="section-title">Datos Generales</div>
-    <div class="fields-grid">
-
-      <div class="field">
-        <label>Ambulancia</label>
-        <div class="toggle-group" id="toggle-ambulancia">
-          <button class="toggle-btn active-si" data-val="SI" onclick="setToggle('ambulancia','SI')">SI</button>
-          <button class="toggle-btn" data-val="NO" onclick="setToggle('ambulancia','NO')">NO</button>
-        </div>
+    <div>
+      <label>Paciente Vigente</label>
+      <div class="toggle-row" id="t-vigente">
+        <button class="tog si" data-v="SI" onclick="tog('vigente','SI')">SI</button>
+        <button class="tog"    data-v="NO" onclick="tog('vigente','NO')">NO</button>
       </div>
-
-      <div class="field">
-        <label>Paciente Vigente</label>
-        <div class="toggle-group" id="toggle-vigente">
-          <button class="toggle-btn active-si" data-val="SI" onclick="setToggle('vigente','SI')">SI</button>
-          <button class="toggle-btn" data-val="NO" onclick="setToggle('vigente','NO')">NO</button>
-        </div>
-      </div>
-
-      <div class="field span2">
-        <label>Nombre</label>
-        <input type="text" id="nombre" placeholder="Nombre completo del paciente">
-      </div>
-
-      <div class="field">
-        <label>NSS</label>
-        <input type="text" id="nss" placeholder="Número de Seguridad Social">
-      </div>
-
-      <div class="field">
-        <label>Edad</label>
-        <input type="number" id="edad" placeholder="Años" min="0" max="150">
-      </div>
-
+    </div>
+    <div class="span2">
+      <label>Nombre</label>
+      <input type="text" id="nombre" placeholder="Nombre completo del paciente">
+    </div>
+    <div>
+      <label>NSS</label>
+      <input type="text" id="nss" placeholder="Número de Seguridad Social">
+    </div>
+    <div>
+      <label>Edad</label>
+      <input type="number" id="edad" placeholder="Años" min="0" max="150">
     </div>
   </div>
 
-  <!-- Motivo y antecedentes -->
-  <div class="section">
-    <div class="section-title">Motivo y Antecedentes</div>
-    <div class="fields-grid">
-
-      <div class="field">
-        <label>Motivo de Consulta</label>
-        <textarea id="motivo" placeholder="Motivo..."></textarea>
-      </div>
-
-      <div class="field">
-        <label>Horas de Evolución Aprox.</label>
-        <input type="text" id="horas" placeholder="Ej: 2 horas, 45 min...">
-      </div>
-
-      <div class="field">
-        <label>AHF</label>
-        <textarea id="ahf" placeholder="Antecedentes heredofamiliares..."></textarea>
-      </div>
-
-      <div class="field">
-        <label>APP</label>
-        <textarea id="app" placeholder="HAS, DM2, cardiopatía..."></textarea>
-      </div>
-
-      <div class="field span2">
-        <label>Padecimiento Actual</label>
-        <textarea id="padecimiento" style="min-height:52px" placeholder="Descripción del padecimiento actual..."></textarea>
-      </div>
-
+  <div class="section-title">Motivo y Antecedentes</div>
+  <div class="grid">
+    <div>
+      <label>Motivo de Consulta</label>
+      <textarea id="motivo" placeholder="Motivo..."></textarea>
+    </div>
+    <div>
+      <label>Horas de Evolución Aprox.</label>
+      <input type="text" id="horas" placeholder="Ej: 2 horas, 45 min">
+    </div>
+    <div>
+      <label>AHF</label>
+      <textarea id="ahf" placeholder="Antecedentes heredofamiliares..."></textarea>
+    </div>
+    <div>
+      <label>APP</label>
+      <textarea id="app" placeholder="HAS, DM2, cardiopatía..."></textarea>
+    </div>
+    <div class="span2">
+      <label>Padecimiento Actual</label>
+      <textarea id="padecimiento" style="min-height:52px" placeholder="Descripción del padecimiento actual..."></textarea>
     </div>
   </div>
 
-  <!-- Signos vitales -->
-  <div class="section">
-    <div class="section-title">Signos Vitales</div>
-    <div class="sv-grid">
-      <div class="field">
-        <label>TA</label>
-        <input type="text" id="ta" placeholder="120/80">
-      </div>
-      <div class="field">
-        <label>FC</label>
-        <input type="text" id="fc" placeholder="80 lpm">
-      </div>
-      <div class="field">
-        <label>FR</label>
-        <input type="text" id="fr" placeholder="18 rpm">
-      </div>
-      <div class="field">
-        <label>TEMP</label>
-        <input type="text" id="temp" placeholder="36.5°C">
-      </div>
-      <div class="field">
-        <label>Saturación O₂</label>
-        <input type="text" id="sat" placeholder="98%">
-      </div>
+  <div class="section-title">Signos Vitales</div>
+  <div class="grid sv">
+    <div><label>TA</label><input type="text" id="ta" placeholder="120/80"></div>
+    <div><label>FC</label><input type="text" id="fc" placeholder="80 lpm"></div>
+    <div><label>FR</label><input type="text" id="fr" placeholder="18 rpm"></div>
+    <div><label>TEMP</label><input type="text" id="temp" placeholder="36.5°C"></div>
+    <div><label>Sat O₂</label><input type="text" id="sat" placeholder="98%"></div>
+  </div>
+
+  <div class="section-title">Exploración y ECG</div>
+  <div class="grid">
+    <div>
+      <label>EF (Exploración Física)</label>
+      <textarea id="ef" placeholder="Hallazgos..."></textarea>
+    </div>
+    <div>
+      <label>ECG</label>
+      <textarea id="ecg" placeholder="Hallazgos electrocardiográficos..."></textarea>
     </div>
   </div>
 
-  <!-- Exploración y ECG -->
-  <div class="section">
-    <div class="section-title">Exploración y ECG</div>
-    <div class="fields-grid">
-      <div class="field">
-        <label>EF (Exploración Física)</label>
-        <textarea id="ef" placeholder="Hallazgos..."></textarea>
-      </div>
-      <div class="field">
-        <label>ECG</label>
-        <textarea id="ecg" placeholder="Hallazgos electrocardiográficos..."></textarea>
-      </div>
+  <div class="section-title">Tratamiento Otorgado</div>
+  <div class="trat-info">2 VÍAS IZQ PERIFÉRICAS, TRICOTOMIA INGUINAL BILATERAL, OXÍGENO Y BATA DE HOSPITAL. METOPROLOL 75MG</div>
+  <div class="grid">
+    <div>
+      <label class="check-row">
+        <input type="checkbox" id="heparina">
+        HEPARINA 5000 SI ES ACEPTADO
+      </label>
+    </div>
+    <div>
+      <label>Tratamiento adicional</label>
+      <textarea id="trat-extra" placeholder="Indicaciones adicionales..."></textarea>
     </div>
   </div>
-
-  <!-- Tratamiento -->
-  <div class="section">
-    <div class="section-title">Tratamiento Otorgado</div>
-    <div class="trat-default">2 VÍAS IZQ PERIFÉRICAS, TRICOTOMIA INGUINAL BILATERAL, OXÍGENO Y BATA DE HOSPITAL. METOPROLOL 75MG</div>
-    <div class="fields-grid">
-      <div class="field">
-        <label class="check-field">
-          <input type="checkbox" id="heparina">
-          HEPARINA 5000 SI ES ACEPTADO
-        </label>
-      </div>
-      <div class="field">
-        <label>Tratamiento adicional</label>
-        <textarea id="trat-extra" placeholder="Indicaciones adicionales..."></textarea>
-      </div>
-    </div>
-  </div>
-
 </div>
 
-<!-- ══ PANEL FLOTANTE (output) ══ -->
-<div class="output-panel">
-  <div class="panel-header">
-    <span class="panel-title">&#128203; Texto Generado</span>
-    <div class="btn-row">
-      <button class="btn btn-generate" onclick="generarTexto()">&#9656; Generar</button>
-      <button class="btn btn-copy" onclick="copiarTexto()">Copiar</button>
-      <button class="btn btn-clear" onclick="limpiarFormulario()">&#8635;</button>
-    </div>
+<!-- OUTPUT -->
+<div class="output">
+  <p class="output-title">&#128203; Texto Generado</p>
+  <div class="btn-row">
+    <button class="btn btn-gen"   onclick="generar()">&#9656; Generar</button>
+    <button class="btn btn-copy"  onclick="copiar()">Copiar</button>
+    <button class="btn btn-clear" onclick="limpiar()">&#8635; Limpiar</button>
   </div>
-  <p class="copy-msg" id="copy-msg">&#10003; Copiado</p>
+  <p class="copy-ok" id="copy-ok"></p>
   <textarea id="output" readonly placeholder="Presiona 'Generar'..."></textarea>
 </div>
 
 <script>
-  const toggleState = { ambulancia: 'SI', vigente: 'SI' };
+  const state = { ambulancia: 'SI', vigente: 'SI' };
 
-  function setToggle(field, val) {
-    toggleState[field] = val;
-    document.getElementById('toggle-' + field).querySelectorAll('.toggle-btn').forEach(btn => {
-      btn.className = 'toggle-btn';
-      if (btn.dataset.val === val) btn.classList.add(val === 'SI' ? 'active-si' : 'active-no');
+  function tog(field, val) {
+    state[field] = val;
+    document.getElementById('t-' + field).querySelectorAll('.tog').forEach(b => {
+      b.className = 'tog' + (b.dataset.v === val ? (val === 'SI' ? ' si' : ' no') : '');
     });
   }
 
-  function v(id) { return document.getElementById(id).value.trim(); }
+  const g = id => document.getElementById(id).value.trim();
 
-  function generarTexto() {
+  function generar() {
     const lines = [
       'FORMATO DE CÓDIGO INFARTO UMF 73',
-      'CONTAMOS CON AMBULANCIA: ' + toggleState.ambulancia,
-      'PACIENTE: VIGENTE: ' + toggleState.vigente,
-      'NOMBRE: ' + v('nombre'),
-      'NSS: ' + v('nss'),
-      'EDAD: ' + v('edad'),
+      'CONTAMOS CON AMBULANCIA: ' + state.ambulancia,
+      'PACIENTE: VIGENTE: ' + state.vigente,
+      'NOMBRE: ' + g('nombre'),
+      'NSS: ' + g('nss'),
+      'EDAD: ' + g('edad'),
       'MOTIVO DE CONSULTA',
-      v('motivo'),
+      g('motivo'),
       'HORAS DE EVOLUCIÓN APROXIMADAMENTE',
-      v('horas'),
-      'AHF: ' + v('ahf'),
-      'APP: ' + v('app'),
-      'PADECIMIENTO ACTUAL: ' + v('padecimiento'),
-      'SV:TA: ' + v('ta') + '    FC: ' + v('fc') + '    FR: ' + v('fr') + '    TEMP: ' + v('temp') + '     , SATURACIÓN: ' + v('sat'),
-      'EF: ' + v('ef'),
-      'ECG : ' + v('ecg'),
+      g('horas'),
+      'AHF: ' + g('ahf'),
+      'APP: ' + g('app'),
+      'PADECIMIENTO ACTUAL: ' + g('padecimiento'),
+      'SV:TA: ' + g('ta') + '    FC: ' + g('fc') + '    FR: ' + g('fr') + '    TEMP: ' + g('temp') + '     , SATURACIÓN: ' + g('sat'),
+      'EF: ' + g('ef'),
+      'ECG : ' + g('ecg'),
       'TRATAMIENTO OTORGADO:',
       '2 VÍAS IZQ PERIFÉRICAS, TRICOTOMIA INGUINAL BILATERAL, OXÍGENO Y BATA DE HOSPITAL.  METOPROLOL 75MG',
     ];
     if (document.getElementById('heparina').checked) lines.push('HEPARINA 5000 SI ES ACEPTADO');
-    const extra = v('trat-extra');
+    const extra = g('trat-extra');
     if (extra) lines.push(extra);
     document.getElementById('output').value = lines.join('\n');
   }
 
-  function copiarTexto() {
+  function copiar() {
     const out = document.getElementById('output');
     if (!out.value) return;
     navigator.clipboard.writeText(out.value).then(() => {
-      const msg = document.getElementById('copy-msg');
-      msg.classList.add('show');
-      setTimeout(() => msg.classList.remove('show'), 2000);
+      const el = document.getElementById('copy-ok');
+      el.textContent = '✓ Copiado';
+      setTimeout(() => el.textContent = '', 2000);
     }).catch(() => { out.select(); document.execCommand('copy'); });
   }
 
-  function limpiarFormulario() {
+  function limpiar() {
     ['nombre','nss','edad','motivo','horas','ahf','app','padecimiento',
      'ta','fc','fr','temp','sat','ef','ecg','trat-extra','output'].forEach(id => {
       const el = document.getElementById(id);
       if (el) el.value = '';
     });
     document.getElementById('heparina').checked = false;
-    setToggle('ambulancia', 'SI');
-    setToggle('vigente', 'SI');
-    document.getElementById('copy-msg').classList.remove('show');
+    document.getElementById('copy-ok').textContent = '';
+    tog('ambulancia', 'SI');
+    tog('vigente', 'SI');
   }
 </script>
 </body>
